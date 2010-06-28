@@ -1,0 +1,99 @@
+body{
+    background-image: url(../images/background.png);
+    background-repeat: repeat-x;
+    background-color: #DCECFF;
+    font-family:"Helvetica","Arial";
+    text-align:center;
+    margin:0;
+}
+div#userInfo{
+    font-size: small;
+    text-align:left;
+    background-color: #515151;
+    color: white;
+    border-bottom: 2px solid black;
+    height: 25px;
+    padding: 10px 0 0 10px;
+    
+}
+div#userInfo a{
+    font-size: small;
+    color: #FC0000;
+}
+
+div#header{
+   margin: 0 auto;
+   padding-bottom: 5;
+}
+div#header a{
+    text-decoration: none;
+}
+div#header span#title{
+    display: block;
+    font-size: 2.5em;
+    padding: 20px;
+    color: #222;
+}
+.navbar{
+    background-color: #ffffff;
+    border: 2px solid #515151;
+    border-right: none;
+    border-left: none;
+    height:40px;
+    font-size:1.2em;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.navbar ul{
+    list-style: none;
+    width: 800px;
+    margin: 0 auto;
+}
+.navbar ul li{
+    float: left;
+    position: relative;
+    width: 180px;
+    margin-right: 1px;
+    height: 36px;
+}
+.navbar ul li a{
+    padding-top: 10px;
+    height: 100%;
+    display: block;
+    text-decoration: none;
+    color: #222;
+
+}
+.navbar ul li a:hover{
+    color:#619DF8;
+    border-bottom: 4px solid #222;
+}
+.navbar ul li a.selected{
+    color:#619DF8;
+    border-bottom: 4px solid #222;
+}
+
+div#content{
+    width: 900px;
+    margin: 75px auto;
+    background-color: white;
+    border: solid 3px #222;
+    padding-bottom:10px;
+}
+div#content a{
+    text-decoration: none;
+    color: black;
+}
+
+
+div.opaque{
+  filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+
+}
+#content_table tr td:first-child{
+    padding-left: 20px;
+}

@@ -1,0 +1,1945 @@
+Script ID,Item,Item type,Item question,Question Response
+E1I10,While Jim bathed the child that was blond and pudgy giggled with delight.,RAT- ambig,Did Jim bathe?,Y
+
+E1I21,As the chimps groomed the baboons that were large and hairy sat in the grass.,RAT- ambig,Did the chimps groom themselves?,Y
+
+E1I32,While Frank dried off the car that was red and shiny sat in the driveway.,RAT- ambig,Did Frank dry himself off?,Y
+
+E1I43,While the girl scratched the cat that was gray and white stared at the dog.,RAT- ambig,Did the girl scratch herself?,Y
+
+E1I54,As the jockey settled down the horse that was sleek and brown stood in the stall.,RAT- ambig,Did the jockey settle down?,Y
+
+E1I65,While the mother undressed the baby that was bald and helpless cried softly.,RAT- ambig,Did the mother undress herself?,Y
+
+E1I76,As Betty woke up the neighbor that was old and cranky coughed loudly.,RAT- ambig,Did Betty wake up?,Y
+
+E1I87,While the thief hid the jewelry that was elegant and expensive sparkled brightly.,RAT- ambig,Did the theif hide?,Y
+
+E1I98,As Anna dressed the baby that was small and cute spit up on the bed.,RAT- ambig,Did Anna dress herself?,Y
+
+E1I109,While the boy washed the dog that was white and furry barked loudly.,RAT- ambig,Did the boy wash himself?,Y
+
+E1I1110,As the nurse shaved the patient that was tired and weak watched TV.,RAT- ambig,Did the nurse shave?,Y
+
+E1I1211,As the mother calmed down the children that were tired and irritable sat on the bed.,RAT- ambig,Did the mother calm down?,Y
+
+E2I112,The flowers that were yellow and blue were gathered by a child as the gardener showered.,RAT- unambig,Did the gardener take a shower?,Y
+
+E2I213,The girl that was tearful and fussy threw a tantrum as the nanny stripped.,RAT- unambig,Did the nanny strip?,Y
+
+E2I314,The portrait that was colorful and exact fell from the easel as the model covered up.,RAT- unambig,Did the model cover herself up?,Y
+
+E2I415,The model that was tall and thin put on her outfit while Kristin put make-up on.,RAT- unambig,Did Kristin put make-up on?,Y
+
+E2I516,The issue that was confusing and unclear continued to worsen as Chris worked out.,RAT- unambig,Did Chris work out?,Y
+
+E2I617,The tiles that were detailed and pricey were cleaned by the maid while Dave lied down.,RAT- unambig,Did Dave lie down?,Y
+
+E2I718,The paint that was vibrant and colorful spilled on the floor while Robert changed.,RAT- unambig,Did Robert change?,Y
+
+E2I819,The files that were important and messy collected on her desk while the secretary transferred.,RAT- unambig,Did the secretary tranfer?,Y
+
+E2I920,The shirt that was clean and folded sat on the dresser as the woman soaked.,RAT- unambig,Did the woman soak herself?,Y
+
+E2I1021,The mannequin that was frail and shapely stood in the store while the woman disrobed.,RAT- unambig,Did the woman disrobe?,Y
+
+E2I1122,The salad that was healthy and fresh remained in the refrigerator as the student prepared.,RAT- unambig,Did the student prepare herself?,Y
+
+E2I1223,The acorns that were brown and ripe fell from the trees while the squirrels relocated.,RAT- unambig,Did the squirrels relocate?,Y
+
+F3I124,As Mark packed the suitcase Neil called the travel agent.,filler1,Did Neil pack the suitcase? ,N
+
+F3I225,While the ambassador toured the country the bomb that was large and disastrous exploded in the capital.,filler1,Did the ambassador tour a castle? ,N
+
+F3I326,As the police chased the prisoner they crashed their car.,filler1,Did the prisoner crash his car? ,N
+
+F3I427,While the cashier bagged the groceries the customer that was flustered and rushing dropped the coupons.,filler1,Did the cashier drop the bag? ,N
+
+F3I528,As the repairman patched the roof that was leaky and slippery he fell on the tiles.,filler1,Did the repairman fix the floor? ,N
+
+F3I629,While the lawyer argued the case the jury that was arrogant and disrespectful slept in the courtroom.,filler1,Did the jury pay close attention? ,N
+
+F3I730,As the grandma recited the story the son read in bed.,filler1,Did the grandma sleep in bed? ,N
+
+F3I831,While Janis watched the fish she cleaned the tank.,filler1,Did Janis watch the cat? ,N
+
+F3I932,As Michael stirred the filling the crust that was golden and delicious baked in the oven.,filler1,Did the filling bake in the oven? ,N
+
+F3I1033,While Alexander tasted the wine the butler answered the door.,filler1,Did the butler taste the wine? ,N
+
+F3I1134,As the researcher compiled the data he created graphs.,filler1,Did a lab assistant create the graphs? ,N
+
+F3I1235,While the father prepared the burgers he covered them with pepper.,filler1,Did the father cover the burgers with mustard? ,N
+
+F3I1336,As Christy recited the monologue the sister that was bored and sleepy left the room.,filler1,Did Christ recite the monologue? ,Y
+
+F3I1437,While Jennifer held the cigar that was aged and expensive she told bad jokes.,filler1,Did Jennifer tell bad jokes? ,Y
+
+F3I1538,As the realtor sold the house that was large and brick she celebrated with her colleagues.,filler1,Did the realtor sell the house? ,Y
+
+F3I1639,While the mother woke the son that was lazy and irresponsible she realized he was late for work.,filler1,Did the mother wake the son? ,Y
+
+F3I1740,As the grandpa picked the raspberries that were large and ripe he saved them for the granddaughter.,filler1,Did the grandpa pick the raspberries? ,Y
+
+F3I1841,While the man reversed the car he listened to the radio.,filler1,Did the man reverse the car? ,Y
+
+F3I1942,As the cat chased the mouse that was small and grey it slid on the linoleum.,filler1,Did the cat chase the mouse? ,Y
+
+F3I2043,While Richard dried the fruit that was ripe and delicious he bagged it for trail mix.,filler1,Did Richard dry the fruit? ,Y
+
+F3I2144,As the waiter lit the candle that was tall and thin he took the couple's order.,filler1,Did the waiter light the candle? ,Y
+
+F3I2245,While the kids teased the friend they watched the movie.,filler1,Did the kids watch the movie? ,Y
+
+F3I2346,As the golfer swung the club the caddy pulled the cart.,filler1,Did the caddy pull the cart? ,Y
+
+F3I2447,As the artist demonstrated the technique the painting that was exquisite and delicate fell off the easel.,filler1,Did the paiting fall off the easel? ,Y
+
+F3I2548,While the woman jumped rope she sprained her ankle.,filler1,Did the woman jump rope? ,Y
+
+F3I2649,While the archer aimed the bow the bird hid in the tree.,filler1,Did the archer aim the bow? ,Y
+
+F3I2750,While the goalie smoothed the ice that was rough and melting he fell on the center line.,filler1,Did the goalie maitain his balance? ,N
+
+F3I2851,As NASA launched the shuttle they taunted the Russians.,filler1,Did NASA reconcile with the Russians? ,N
+
+F3I2952,As the chef sampled the sauce she boiled the noodles.,filler1,Did the chef make pastries? ,N
+
+F3I3053,As the skier removed the skies he collapsed in the snow.,filler1,Did the skier keep his skies on? ,N
+
+F3I3154,As the maid tidied the house she made the bed.,filler1,Did the maid vacuum the floor? ,N
+
+F3I3255,As the contestant spun the wheel that was large and colorful she clapped her hands.,filler1,Did the contestant stay quiet? ,N
+
+F3I3356,While the secretary made the photocopy that was brief and important she broke the Xerox machine.,filler1,Did the secretar send a fax? ,N
+
+F3I3457,As the campers built the fire they gathered more wood.,filler1,Did the campers douse the fire? ,N
+
+F3I3558,As the biologist observed the specimen the patient that was feverish and dying screamed in pain.,filler1,Did the patiet feel better? ,N
+
+F3I3659,While the actor memorized the lines he walked his dog.,filler1,Did the actor walk aloe? ,N
+
+F3I3760,While the ghost rattled the chains that were metal and heavy it woke the tired child.,filler1,Did the child rattle chains? ,N
+
+F3I3861,As the salesman laced the shoe that was small and narrow he slid it on the customer's foot.,filler1,Did the customer wear a large and wide shoe? ,N
+
+F3I3962,While the doctor injected the medicine that was green and bubbly he held the patient.,filler1,Did the doctor give the patient a pill? ,N
+
+F3I4063,While the student used the clarinet the brother covered his ears.,filler1,Did the brother listen attetively? ,N
+
+F3I4164,While the choir sang the hymn the child squirmed in the pew.,filler1,Did the child sing a hymn? ,N
+
+F3I4265,While the minister married the couple he wore the robe.,filler1,Did the minister perform funeral services? ,N
+
+F4I166,The poodle sniffed the food as he scratched his ear.,filler2,Did the poodle sniff the food?,Y
+
+F4I267,Mabel fixed the socks while she watched the TV.,filler2,Did Mabel watch the fire? ,N
+
+F4I368,Joseph freed the bird that was red and yellow as the zookeeper watched in horror.,filler2,Did Joseph free the lion? ,N
+
+F4I469,The mother served the broccoli while the kids banged the table.,filler2,Did the kids bang the gong? ,N
+
+F4I570,The tornado destroyed the city hall that was modern and spectacular as it visited the city.,filler2,Did the tornado destroy the auditorium? ,N
+
+F4I671,The butterfly fluttered her wings while she laid the eggs.,filler2,Did the butterfly flutter her wings? ,Y
+
+F4I772,Fido gnawed the milk bone that was small and tasty as Dave fed the cat.,filler2,Did Dave feed the cat? ,Y
+
+F4I873,The camper stirred the beans that were brown and scrumptious while the fire warmed the pot.,filler2,Did the fire warm the house? ,N
+
+F4I974,The mistress applied lipstick as she rode the bike.,filler2,Did the mistress ride the bike? ,Y
+
+F4I1075,The gymnast hurt her ankle that was twisted and swollen while she completed the vault.,filler2,Did the gymnast complete the vault? ,Y
+
+F4I1176,The professor scolded the student that was conscientious and reliable as they bumped in the hallway.,filler2,Did the professor scold the senator? ,N
+
+F4I1277,The grandma braided the pigtails that were thick and blonde while she groomed the girl.,filler2,Did the grandma braid the pigtails? ,Y
+
+F4I1378,Andrew observed the house that was dark and haunted as the mother baked the cookies.,filler2,Did the mother bake the cookies? ,Y
+
+F4I1479,The exterminator entered the school while the cockroaches scurried.,filler2,Did the exterminator enter the restaurant? ,N
+
+F4I1580,Gary lost the data that was rare and critical as he reformatted his hard drive.,filler2,Did Gary reformat his hard drive? ,Y
+
+F4I1681,Yasmeen memorized the formula that was long and complicated while the instructor erased the board.,filler2,Did the instructor erase the hard drive? ,N
+
+F4I1782,The cowboy branded the cow as he warmed the instrument over the fire.,filler2,Did the cowboy brand the goat? ,N
+
+F4I1883,The mother comforted the toddler that was chubby and scared while the clown handed him a balloon.,filler2,Did the mother comfort the toddler? ,Y
+
+F4I1984,The fireman rescued the kitten as the house burned to the ground.,filler2,Did the fireman rescue the kitten? ,Y
+
+F4I2085,The referee blew the whistle while he noticed the foul.,filler2,Did the referee notice the foul? ,Y
+
+F4I2186,The hostess folded the bedspread that was pink and musty as the guest entered the bedroom.,filler2,Did the hostess fold the bedspread? ,Y
+
+F4I2287,The kids mixed the ingredients while Tim kneaded the dough.,filler2,Did Tim knead the dough? ,Y
+
+F4I2388,The patient threatened suicide as the psychiatrist administered drugs.,filler2,Did the psychiatrist administer drugs? ,Y
+
+F4I2489,The guitarist plucked the guitar that was old and flat while the lovers entered the room.,filler2,Did the guitarist pluck the guitar? ,Y
+
+F4I2590,The toddler wore the pajamas as he went to bed.,filler2,Did the toddler go to bed? ,Y
+
+F4I2691,Mickey watched the parade while the drummer dropped his instrument.,filler2,Did the drummer drop his pants? ,N
+
+F4I2792,The woman cashed the check that was valuable and important as she stopped at the bank.,filler2,Did the woman cash the check? ,Y
+
+F4I2893,The archaeologist dug the pit that was deep and muddy as the supervisor broke the artifact.,filler2,Did the supervisor break the computer? ,N
+
+F4I2994,The wife washed the dishes as the husband did the laundry.,filler2,Did the wife wash the windows? ,N
+
+F4I3095,The class left the building that was large and brick as it formed a line.,filler2,Did the class leave a restaurant? ,N
+
+F4I3196,The bat bit James as he screamed.,filler2,Did the bat bite Kelly? ,N
+
+F4I3297,The truck driver wiped his brow while he removed his shirt.,filler2,Did the truck driver remove his watch? ,N
+
+F4I3398,The pitcher threw the pitch that was low and inside while the batter held the bat.,filler2,Did the batter hold the pipe? ,N
+
+F4I3499,Desmond held the football that was heavy and brown while Kevin took a fall.,filler2,Did Desmond hold the kitten? ,N
+
+F4I35100,Diana requested the painkiller as she began childbirth.,filler2,Did Diana request a hamburger? ,N
+
+F4I36101,Kate bought the vase that was gorgeous and delicate while the shopkeeper earned commission.,filler2,Did Kate buy the picture frame? ,N
+
+F4I37102,The judge addressed the jury that was rude and inattentive as the witness gave the testimony.,filler2,Did the judge address the class? ,N
+
+F4I38103,The blonde wore the bikini while she washed the car.,filler2,Did the blonde wash her hair? ,N
+
+F4I39104,The soldier went to war while the wife worried at home.,filler2,Did the wife worry at home? ,Y
+
+F4I40105,The postman delivered the package that was large and heavy while the neighbor watered the plants.,filler2,Did the neighbor deliver the package? ,N
+
+F4I41106,The construction worker eyed Karen as he poured the cement.,filler2,Did the construction worker weld a bolt? ,N
+
+F4I42107,The carpenter sanded the wood that was light and knotty as Marcia built the bench.,filler2,Did Marcia build the wagon? ,N
+
+F4I43108,The golden retriever buried the bone as he refilled the hole.,filler2,Did the golden retriever bury the toy? ,N
+
+F4I44109,The zookeeper held the snake that was strong and brown as the children touched it.,filler2,Did the children touch a bird? ,N
+
+F4I45110,The consumer contracted salmonella as she ate the hamburger.,filler2,Did the consumer eat the lemon? ,N
+
+F4I46111,The designer earned money while the miniskirt became popular.,filler2,Did the designer lose money? ,N
+
+F4I47112,The bowler whispered a prayer while he threw the ball.,filler2,Did the bowler use a racket? ,N
+
+F4I48113,The boys forgot the books that were heavy and thick as they left for school.,filler2,Did the boys bring their books? ,N
+E1I1114,While the pool boy showered the deck that was grimy and dark creaked eerily.,RAT- ambiguous,Did the pool boy take a shower?,Y
+
+E1I2115,As Angela stripped the paper that was pink and flowery began to peel.,RAT- ambiguous,Did Angela strip?,Y
+
+E1I3116,While the thief covered up the goods that were conspicuous and grand drew attention from pedestrians.,RAT- ambiguous,Did the thief cover himself up?,Y
+
+E1I4117,As newscaster put make-up on the co-anchor that was chatty and likable read the prompt.,RAT- ambiguous,Did the newscaster put make-up on?,Y
+
+E1I5118,While Cora worked out the knot that was aching and sore throbbed in her thigh.,RAT- ambiguous,Did Cora work out?,Y
+
+E1I6119,As the agent lay down the badge that was battered and clunky broke in half.,RAT- ambiguous,Did the agent lie down?  ,Y
+
+E1I7120,As the sergeant changed the drill that was repetitive and exhausting stopped hurting the recruits.,RAT- ambiguous,Did the sergeant change?,Y
+
+E1I8121,While the executive transferred the assistant that was efficient and knowledgeable packed boxes.,RAT- ambiguous,Did the executive transfer?,Y
+
+E1I9122,While the chef soaked the greens that were nutritious and plentiful grew under heat lamps.,RAT- ambiguous,Did the chef soak himself?,Y
+
+E1I10123,As the coach disrobed the champion that was muscular and agitated punched his opponent.,RAT- ambiguous,Did the coach disrobe?,Y
+
+E1I11124,While the lawyer prepared the witness that was nervous and fidgety started to hyperventilate.,RAT- ambiguous,Did the lawyer prepare himself?,Y
+
+E1I12125,As the miser relocated the treasure that was valuable and lucrative gained interest.,RAT- ambiguous,Did the miser relocate?,Y
+
+E2I1126,The calf that was stubborn and restless head-butted the barn wall while Sally bathed.,RAT- unambiguous,Did Sally bathe?,Y
+
+E2I2127,The patient that was confused and forgetful wandered the hospital as the aid groomed.,RAT- unambiguous,Did the aid groom herself?,Y
+
+E2I3128,The gun that was antique and rusty fired clouds of smoke while the soldier dried off.,RAT- unambiguous,Did the soldier dry himself off?,Y
+
+E2I4129,The tree that was supple and young waved in the breeze while the outfielder scratched.,RAT- unambiguous,Did the outfielder scratch himself?  ,Y
+
+E2I5130,The convent that was pious and devoted welcomed the Pope as the nun settled down.,RAT- unambiguous,Did the nun settle down?,Y
+
+E2I6131,The girl who was wet and embarrassed stood in the corner while Theresa undressed.,RAT- unambiguous,Did Theresa undress herself?,Y
+
+E2I7132,The lady that was elegant and wealthy snorted in disapproval as Neville woke up.,RAT- unambiguous,Did Neville wake up?,Y
+
+E2I8133,The present that was extravagant and glittering sat on the table while the guest hid.,RAT- unambiguous,Did the guest hide?,Y
+
+E2I9134,The salad that was fresh and green was prepared for dinner as the butler dressed.,RAT- unambiguous,Did the butler dress himself?,Y
+
+E2I10135,The car that was red and flashy drove down the road while the handyman washed.,RAT- unambiguous,Did the handiman wash himself?,Y
+
+E2I11136,The sheep that was fluffy and woolly bleated in its pen as Marcus shaved.,RAT- unambiguous,Did Marcus shave?,Y
+
+E2I12137,The coach that was stern and formidable bought a victory lunch as the team calmed down.,RAT- unambiguous,Did the team calm down?,Y
+
+F3I1138,As Mark packed the suitcase Neil called the travel agent.,filler1,Did Neil pack the suitcase? ,N
+
+F3I2139,While the ambassador toured the country the bomb that was large and disastrous exploded in the capital.,filler1,Did the ambassador tour a castle? ,N
+
+F3I3140,As the police chased the prisoner they crashed their car.,filler1,Did the prisoner crash his car? ,N
+
+F3I4141,While the cashier bagged the groceries the customer that was flustered and rushing dropped the coupons.,filler1,Did the cashier drop the bag? ,N
+
+F3I5142,As the repairman patched the roof that was leaky and slippery he fell on the tiles.,filler1,Did the repairman fix the floor? ,N
+
+F3I6143,While the lawyer argued the case the jury that was arrogant and disrespectful slept in the courtroom.,filler1,Did the jury pay close attention? ,N
+
+F3I7144,As the grandma recited the story the son read in bed.,filler1,Did the grandma sleep in bed? ,N
+
+F3I8145,While Janis watched the fish she cleaned the tank.,filler1,Did Janis watch the cat? ,N
+
+F3I9146,As Michael stirred the filling the crust that was golden and delicious baked in the oven.,filler1,Did the filling bake in the oven? ,N
+
+F3I10147,While Alexander tasted the wine the butler answered the door.,filler1,Did the butler taste the wine? ,N
+
+F3I11148,As the researcher compiled the data he created graphs.,filler1,Did a lab assistant create the graphs? ,N
+
+F3I12149,While the father prepared the burgers he covered them with pepper.,filler1,Did the father cover the burgers with mustard? ,N
+
+F3I13150,As Christy recited the monologue the sister that was bored and sleepy left the room.,filler1,Did Christ recite the monologue? ,Y
+
+F3I14151,While Jennifer held the cigar that was aged and expensive she told bad jokes.,filler1,Did Jennifer tell bad jokes? ,Y
+
+F3I15152,As the realtor sold the house that was large and brick she celebrated with her colleagues.,filler1,Did the realtor sell the house? ,Y
+
+F3I16153,While the mother woke the son that was lazy and irresponsible she realized he was late for work.,filler1,Did the mother wake the son? ,Y
+
+F3I17154,As the grandpa picked the raspberries that were large and ripe he saved them for the granddaughter.,filler1,Did the grandpa pick the raspberries? ,Y
+
+F3I18155,While the man reversed the car he listened to the radio.,filler1,Did the man reverse the car? ,Y
+
+F3I19156,As the cat chased the mouse that was small and grey it slid on the linoleum.,filler1,Did the cat chase the mouse? ,Y
+
+F3I20157,While Richard dried the fruit that was ripe and delicious he bagged it for trail mix.,filler1,Did Richard dry the fruit? ,Y
+
+F3I21158,As the waiter lit the candle that was tall and thin he took the couple's order.,filler1,Did the waiter light the candle? ,Y
+
+F3I22159,While the kids teased the friend they watched the movie.,filler1,Did the kids watch the movie? ,Y
+
+F3I23160,As the golfer swung the club the caddy pulled the cart.,filler1,Did the caddy pull the cart? ,Y
+
+F3I24161,As the artist demonstrated the technique the painting that was exquisite and delicate fell off the easel.,filler1,Did the paiting fall off the easel? ,Y
+
+F3I25162,While the woman jumped rope she sprained her ankle.,filler1,Did the woman jump rope? ,Y
+
+F3I26163,While the archer aimed the bow the bird hid in the tree.,filler1,Did the archer aim the bow? ,Y
+
+F3I27164,While the goalie smoothed the ice that was rough and melting he fell on the center line.,filler1,Did the goalie maitain his balance? ,N
+
+F3I28165,As NASA launched the shuttle they taunted the Russians.,filler1,Did NASA reconcile with the Russians? ,N
+
+F3I29166,As the chef sampled the sauce she boiled the noodles.,filler1,Did the chef make pastries? ,N
+
+F3I30167,As the skier removed the skies he collapsed in the snow.,filler1,Did the skier keep his skies on? ,N
+
+F3I31168,As the maid tidied the house she made the bed.,filler1,Did the maid vacuum the floor? ,N
+
+F3I32169,As the contestant spun the wheel that was large and colorful she clapped her hands.,filler1,Did the contestant stay quiet? ,N
+
+F3I33170,While the secretary made the photocopy that was brief and important she broke the Xerox machine.,filler1,Did the secretar send a fax? ,N
+
+F3I34171,As the campers built the fire they gathered more wood.,filler1,Did the campers douse the fire? ,N
+
+F3I35172,As the biologist observed the specimen the patient that was feverish and dying screamed in pain.,filler1,Did the patiet feel better? ,N
+
+F3I36173,While the actor memorized the lines he walked his dog.,filler1,Did the actor walk aloe? ,N
+
+F3I37174,While the ghost rattled the chains that were metal and heavy it woke the tired child.,filler1,Did the child rattle chains? ,N
+
+F3I38175,As the salesman laced the shoe that was small and narrow he slid it on the customer's foot.,filler1,Did the customer wear a large and wide shoe? ,N
+
+F3I39176,While the doctor injected the medicine that was green and bubbly he held the patient.,filler1,Did the doctor give the patient a pill? ,N
+
+F3I40177,While the student used the clarinet the brother covered his ears.,filler1,Did the brother listen attetively? ,N
+
+F3I41178,While the choir sang the hymn the child squirmed in the pew.,filler1,Did the child sing a hymn? ,N
+
+F3I42179,While the minister married the couple he wore the robe.,filler1,Did the minister perform funeral services? ,N
+
+F4I1180,The poodle sniffed the food as he scratched his ear.,filler1,Did the poodle sniff the food?,Y
+
+F4I2181,Mabel fixed the socks while she watched the TV.,filler2,Did Mabel watch the fire? ,N
+
+F4I3182,Joseph freed the bird that was red and yellow as the zookeeper watched in horror.,filler2,Did Joseph free the lion? ,N
+
+F4I4183,The mother served the broccoli while the kids banged the table.,filler2,Did the kids bang the gong? ,N
+
+F4I5184,The tornado destroyed the city hall that was modern and spectacular as it visited the city.,filler2,Did the tornado destroy the auditorium? ,N
+
+F4I6185,The butterfly fluttered her wings while she laid the eggs.,filler2,Did the butterfly flutter her wings? ,Y
+
+F4I7186,Fido gnawed the milk bone that was small and tasty as Dave fed the cat.,filler2,Did Dave feed the cat? ,Y
+
+F4I8187,The camper stirred the beans that were brown and scrumptious while the fire warmed the pot.,filler2,Did the fire warm the house? ,N
+
+F4I9188,The mistress applied lipstick as she rode the bike.,filler2,Did the mistress ride the bike? ,Y
+
+F4I10189,The gymnast hurt her ankle that was twisted and swollen while she completed the vault.,filler2,Did the gymnast complete the vault? ,Y
+
+F4I11190,The professor scolded the student that was conscientious and reliable as they bumped in the hallway.,filler2,Did the professor scold the senator? ,N
+
+F4I12191,The grandma braided the pigtails that were thick and blonde while she groomed the girl.,filler2,Did the grandma braid the pigtails? ,Y
+
+F4I13192,Andrew observed the house that was dark and haunted as the mother baked the cookies.,filler2,Did the mother bake the cookies? ,Y
+
+F4I14193,The exterminator entered the school while the cockroaches scurried.,filler2,Did the exterminator enter the restaurant? ,N
+
+F4I15194,Gary lost the data that was rare and critical as he reformatted his hard drive.,filler2,Did Gary reformat his hard drive? ,Y
+
+F4I16195,Yasmeen memorized the formula that was long and complicated while the instructor erased the board.,filler2,Did the instructor erase the hard drive? ,N
+
+F4I17196,The cowboy branded the cow as he warmed the instrument over the fire.,filler2,Did the cowboy brand the goat? ,N
+
+F4I18197,The mother comforted the toddler that was chubby and scared while the clown handed him a balloon.,filler2,Did the mother comfort the toddler? ,Y
+
+F4I19198,The fireman rescued the kitten as the house burned to the ground.,filler2,Did the fireman rescue the kitten? ,Y
+
+F4I20199,The referee blew the whistle while he noticed the foul.,filler2,Did the referee notice the foul? ,Y
+
+F4I21200,The hostess folded the bedspread that was pink and musty as the guest entered the bedroom.,filler2,Did the hostess fold the bedspread? ,Y
+
+F4I22201,The kids mixed the ingredients while Tim kneaded the dough.,filler2,Did Tim knead the dough? ,Y
+
+F4I23202,The patient threatened suicide as the psychiatrist administered drugs.,filler2,Did the psychiatrist administer drugs? ,Y
+
+F4I24203,The guitarist plucked the guitar that was old and flat while the lovers entered the room.,filler2,Did the guitarist pluck the guitar? ,Y
+
+F4I25204,The toddler wore the pajamas as he went to bed.,filler2,Did the toddler go to bed? ,Y
+
+F4I26205,Mickey watched the parade while the drummer dropped his instrument.,filler2,Did the drummer drop his pants? ,N
+
+F4I27206,The woman cashed the check that was valuable and important as she stopped at the bank.,filler2,Did the woman cash the check? ,Y
+
+F4I28207,The archaeologist dug the pit that was deep and muddy as the supervisor broke the artifact.,filler2,Did the supervisor break the computer? ,N
+
+F4I29208,The wife washed the dishes as the husband did the laundry.,filler2,Did the wife wash the windows? ,N
+
+F4I30209,The class left the building that was large and brick as it formed a line.,filler2,Did the class leave a restaurant? ,N
+
+F4I31210,The bat bit James as he screamed.,filler2,Did the bat bite Kelly? ,N
+
+F4I32211,The truck driver wiped his brow while he removed his shirt.,filler2,Did the truck driver remove his watch? ,N
+
+F4I33212,The pitcher threw the pitch that was low and inside while the batter held the bat.,filler2,Did the batter hold the pipe? ,N
+
+F4I34213,Desmond held the football that was heavy and brown while Kevin took a fall.,filler2,Did Desmond hold the kitten? ,N
+
+F4I35214,Diana requested the painkiller as she began childbirth.,filler2,Did Diana request a hamburger? ,N
+
+F4I36215,Kate bought the vase that was gorgeous and delicate while the shopkeeper earned commission.,filler2,Did Kate buy the picture frame? ,N
+
+F4I37216,The judge addressed the jury that was rude and inattentive as the witness gave the testimony.,filler2,Did the judge address the class? ,N
+
+F4I38217,The blonde wore the bikini while she washed the car.,filler2,Did the blonde wash her hair? ,N
+
+F4I39218,The soldier went to war while the wife worried at home.,filler2,Did the wife worry at home? ,Y
+
+F4I40219,The postman delivered the package that was large and heavy while the neighbor watered the plants.,filler2,Did the neighbor deliver the package? ,N
+
+F4I41220,The construction worker eyed Karen as he poured the cement.,filler2,Did the construction worker weld a bolt? ,N
+
+F4I42221,The carpenter sanded the wood that was light and knotty as Marcia built the bench.,filler2,Did Marcia build the wagon? ,N
+
+F4I43222,The golden retriever buried the bone as he refilled the hole.,filler2,Did the golden retriever bury the toy? ,N
+
+F4I44223,The zookeeper held the snake that was strong and brown as the children touched it.,filler2,Did the children touch a bird? ,N
+
+F4I45224,The consumer contracted salmonella as she ate the hamburger.,filler2,Did the consumer eat the lemon? ,N
+
+F4I46225,The designer earned money while the miniskirt became popular.,filler2,Did the designer lose money? ,N
+
+F4I47226,The bowler whispered a prayer while he threw the ball.,filler2,Did the bowler use a racket? ,N
+
+F4I48227,The boys forgot the books that were heavy and thick as they left for school.,filler2,Did the boys bring their books? ,N
+
+E1I1228,The struggling pupil understood the message was important for his grade.,Ambiguous,Was the message important for the student’s success?,Y
+E1I2229,The job applicant emphasized the problems couldn't be resolved by Friday.,Ambiguous,Could the issue be resolved by the end of the work week?,N
+E1I3230,The bestselling author wrote the essay was based on autobiographical events.,Ambiguous,Was the essay based on the author’s life?,Y
+E1I4231,The curious toddler learned the equations gave her brother a headache.,Ambiguous,Did the equations frustrate her brother?,Y
+E1I5232,The abashed publicist confirmed the rumor was started by his daughter.,Ambiguous,Did the publicist’s daughter generate the rumor?,Y
+E1I6233,The vehement columnist asserted the belief was drastically misleading the masses.,Ambiguous,Did the columnist think the opinion was correct?,N
+E1I7234,The apprentice mechanic maintained the machinery was broken beyond repair.,Ambiguous,Could the machine be fixed?,N
+E1I8235,The befuddled foreigner repeated the poem did not make logical sense.,Ambiguous,Did the foreigner understand the poem?,N
+E2I1236,The popular cheerleader heard that the story had gone all over school.,Unambiguous,Was the story contained?,N
+E2I2237,The school staff printed that the article was stolen from the office.,Unambiguous,Was the article taken from the office?,Y
+E2I3238,The absent-minded grandmother forgot that the key was still in her pocket.,Unambiguous,Was the key in a drawer?,N
+E2I4239,The ignorant citizen advocated that the strategy would promote nuclear power.,Unambiguous,Did the citizen believe the strategy supported nuclear power?,Y
+E2I5240,The adventurous sailor discovered that the wreck contained several rare medicinal plants.,Unambiguous,Were rare plants housed in the wreck?,Y
+E2I6241,The aging hippie protested that the policy was started for selfish reasons.,Unambiguous,Was the policy started for compassionate reasons?,N
+E2I7242,The enthusiastic manager accepted that the money was intended for her client.,Unambiguous,Was the money for the manager?,N
+E2I8243,The tour guide warned that the spectators were scared by ghost sightings.,Unambiguous,Were the observers frightened?,Y
+E3I1244,The respected actress suggested the scene had been written very poorly.,Ambiguous,Was the actress satisfied?,N
+E3I2245,The train conductor worried the passengers wouldn’t enjoy the long trip.,Ambiguous,Was the trip going to be long?,Y
+E3I3246,The angry protestor proved the theory would not be universally accepted.,Ambiguous,Was the theory popular?,N
+E3I4247,The naïve politician assumed the burden was not his to carry.,Ambiguous,Was the politician responsible for the problem?,N
+E3I5248,The young teacher argued the issue must be discussed in class.,Ambiguous,Was there a topic discussed?,Y
+E3I6249,The music reviewer decided the appeal would not attract the band.,Ambiguous,Was the band turned off by the appeal?,Y
+E3I7250,The strict manager suspected the workers deserved more discipline than required.,Ambiguous,Were the workers unreliable?,Y
+E3I8251,The ruthless outlaw claimed the reward would not be convincing enough.,Ambiguous,Would the outlaw be turned in because of the reward?,N
+E4I1252,The nervous candidate believed that the interviewer had asked him interesting questions.,Unambiguous,Did the candidate like the interviewer’s questions?,Y
+E4I2253,The brilliant researcher figured that the sum was impossible given the equation.,Unambiguous,Did the equation make the process easier? ,N
+E4I3254,The rookie athlete realized that the mistake ruined her chances of winning.,Unambiguous,Would the athlete lose because of the mistake?,Y
+E4I4255,The undergraduate student concluded that the lesson would not actually be useful.,Unambiguous,Was there a valuable lesson taught?,N
+E4I5256,The defense attorney inferred that the reason would be argued strongly.,Unambiguous,Would the reason be argued well?,Y
+E4I6257,The freshman senator indicated that the problem could be fixed through perseverance.,Unambiguous,Was the problem permanent?,N
+E4I7258,The auto mechanic admitted that the error was on purpose for money.,Unambiguous,Was the error deceiving?,Y
+E4I8259,The appreciative employee implied that the raise would help pay his debts.,Unambiguous,Did the raise disappoint the employee? ,N
+E9I1260,The mole who exposed the defector rejected the offer on the spot.,,Did the mole accept the offer?,N
+E9I2261,The singer who blamed the organizer cancelled the concert in Los Angeles.,,Did the singer perform in LA?,N
+E9I3262,The acrobat who mocked the clown performed the trick at the show.,,Did the acrobat skip the show?,N
+E9I4263,The customer who upset the seller forgot the receipt on the counter.,,Did the customer remember the receipt?,N
+E9I5264,The partner who introduced the businessman presented the report at the meeting.,,Did the partner miss the meeting?,N
+E9I6265,The messenger who summoned the knight read the letter from the king.,,Did the messenger read a book?,N
+E9I7266,The linguist who ridiculed the historian proposed the hypothesis for the problem.,,Did the linguist disagree with the hypothesis?,N
+E9I8267,The biker who ignored the driver made the turn at the crossing.,,Did the biker go straight?,N
+E9I9268,The lover who regretted the painter sent a rose in the evening.,,Did the lover give a flower?,Y
+E9I10269,The musician who sensed the producer played the piano in the studio.,,Did the musician play in the studio?,Y
+E9I11270,The principal who judged the scholar patrolled the hall during school hours.,,Did the principal walk the hallways?,Y
+E9I12271,The teammate who revived the athlete won the game on the field.,,Did the teammate win the game?,Y
+E9I13272,The wizard who healed the medicine man stopped the boat at the bridge.,,Did the wizard halt the boat?,Y
+E9I14273,The lord who embraced the lady ate the muffin in the kitchen.,,Did the lord eat in the kitchen?,Y
+E9I15274,The guard who watched the agent took a break at the shop.,,Did the guard take a break?,Y
+E9I16275,The sister who supervised the brother got some crayons from the box.,,Did the sister get crayons?,Y
+E10I1276,The hostess who the father surprised opened a bottle of fresh champagne.,,Did the hostess open a beer?,N
+E10I2277,The bishop who the deacon amazed drank the wine in the sanctuary.,,Did the bishop drink water?,N
+E10I3278,The celebrity who the cameraman shocked spent the day at the zoo.,,Did the celebrity go to the aquarium?,N
+E10I4279,The grandmother who the child fed took a nap in the afternoon.,,Did the grandmother watch tv?,N
+E10I5280,The officer who the inspector arrested released a statement to the press.,,Did the officer avoid the press?,N
+E10I6281,The therapist who the masseuse trained heated bath water for a client.,,Did the therapist give cold baths?,N
+E10I7282,The doctor who the resident examined stitched a wound with great ease.,,Did the wound give the doctor difficulty?,N
+E10I8283,The architect who the engineer fired built town houses for rich heiresses.,,Did the architect build country homes?,N
+E10I9284,The neighbor who the housewife imitated earned prize money for her pies.,,Did the neighbor bake pies?,Y
+E10I10285,The student who the classmate frightened received a detention when classes ended.,,Did the student have to stay after school?,Y
+E10I11286,The horticulturist who the landscaper irritated used his intuition to grow flowers.,,Did the horticulturist use his instincts?,Y
+E10I12287,The man who the criminal kicked participated in therapy for anger management.,,Did the man have trouble with anger?,Y
+E10I13288,The prostitute who the pimp outsmarted counted her money in the alley.,,Did the prostitute go through her cash?,Y
+E10I14289,The governor who the mobster blackmailed turned up dead in his office.,,Did the governor die?,Y
+E10I15290,The chef who the talk show host extolled brought good business the whole year.  ,,Did the chef attract business?,Y
+E10I16291,The servant who the maid seduced went to college on a scholarship.,,Did the servant attend college?,Y
+F11I1292,The clerk at the records office clarified the confusing statement on the application.,Filler,Was the statement very straightforward?,N
+F11I2293,The handsome prince offered but his bride's family declined the fortune.,Filler,Would the prince remain a bachelor?,N
+F11I3294,The two friends wagered their allowance on who would get the highest test score.,Filler,Did the friends bet on a baseball game?,N
+F11I4295,The mysterious woman divulged her deepest and darkest secrets to the bus driver.,Filler,Was the woman very shy?,N
+F11I5296,The radio newscaster verified the short and exciting report before the broadcast.,Filler,Was the report true?,Y
+F11I6297,The bargain shopper saw the beautiful and expensive raincoat after the sale was over.,Filler,Was the shopper careless with cash?,N
+F11I7298,The exuberant team planned a huge and extravagant party for after the game.,Filler,Did the team feel good about things?,Y
+F11I8299,The science teacher verified the unexpected results because she found them implausible.,Filler,Did the results seem strange?,Y
+F11I9300,The temporary assistant saw the short and inappropriate memo while rummaging through the files.,Filler,Did the assistant notice the memo?,Y
+F11I10301,The injured man imagined the attack while in the emergency room.,Filler,Had the man been assaulted?,Y
+F11I11302,The worried mother determined the explanation for why her son had been avoiding her.,Filler,Was the mother concerned about her son?,Y
+F11I12303,The flight attendant clarified the instructions when the passengers asked questions.,Filler,Was the flight attendant helpful?,Y
+F11I13304,The church workers offered the kids a free bible and some coloring books.,Filler,Did the workers offer them food?,N
+F11I14305,The curious girl comprehended the answer but asked the question again.,Filler,Did the girl understand the first time?,Y
+F11I15306,The office staff raced but there was no clear winner.,Filler,Did someone come in first place?,N
+F11I16307,The teacher's assistant divulged the purpose of her colleague's absence.,Filler,Did the assistant know the purpose?,Y
+F11I17308,Many of the cheerleaders recalled the difficult and strenuous routine from last year's homecoming game.,Filler,Did the cheerleaders forget the routine?,N
+F11I18309,The attorneys for the family disputed the authorities' version of what transpired.,Filler,Were the events completely agreed upon?,N
+F11I19310,The wealthy investor regretted the bad and unfortunate decision once he realized the consequences.,Filler,Was the investor rich?,Y
+F11I20311,The models in the fashion show revealed their stylish tank tops.,Filler,Were the models wearing sweaters?,N
+F11I21312,The I.R.S. agent demanded the full amount the week following the audit.,Filler,Did the audit go well?,N
+F11I22313,The poodle recognized his owner's scent on the clothing that was discovered.,Filler,Did the dog have a keen sense of smell?,Y
+F11I23314,The waitress promised her regulars a free cup of coffee.,Filler,Would the regulars have eggs?,N
+F11I24315,The foreign students sat down but couldn't understand the lecture.,Filler,Were the students a bit confused?,Y
+F11I25316,The angry mob announced their demands but still refused to negotiate.,Filler,Did the mob want to compromise?,N
+F11I26317,The nervous teenager lied to the judge to avoid incriminating his friend.,Filler,Did the witness commit perjury?,Y
+F11I27318,The bored librarian painted her fingernails after shelving several books.,Filler,Was the librarian very busy?,N
+F11I28319,The interior decorator hammered away and hung the painting on the wall.,Filler,Did the decorator hang a poster?,N
+F11I29320,The new salesman insulted the stranger and she left the store.,Filler,Was the stranger satisfied?,N
+F11I30321,The soccer player kicked the ball through the goalie's hands.,Filler,Did the soccer player score?,Y
+F11I31322,The thoughtful daughter cared for her elderly mother.,Filler,Was the mother taken care of?,Y
+F11I32323,The new homeowner slept in the room next to the garden.,Filler,Did the homeowner sleep near plants and shrubs?,Y
+E1I1324,The popular cheerleader heard the story had gone all over school.,Ambiguous,Was the story contained?,N
+E1I2325,The school staff printed the article was stolen from the office.,Ambiguous,Was the article taken from the office?,Y
+E1I3326,The absent-minded grandmother forgot the key was still in her pocket.,Ambiguous,Was the key in a drawer?,N
+E1I4327,The ignorant citizen advocated the strategy would promote nuclear power.,Ambiguous,Did the citizen believe the strategy supported nuclear power?,Y
+E1I5328,The adventurous sailor discovered the wreck contained several rare medicinal plants.,Ambiguous,Were rare plants housed in the wreck?,Y
+E1I6329,The aging hippie protested the policy was started for selfish reasons.,Ambiguous,Was the policy started for compassionate reasons?,N
+E1I7330,The enthusiastic manager accepted the money was intended for her client.,Ambiguous,Was the money for the manager?,N
+E1I8331,The tour guide warned the spectators were scared by ghost sightings.,Ambiguous,Were the observers frightened?,Y
+E2I1332,The struggling pupil understood that the message was important for his grade.,Unambiguous,Was the message important for the student’s success?,Y
+E2I2333,The job applicant emphasized that the problems couldn't be resolved by Friday.,Unambiguous,Could the issue be resolved by the end of the work week?,N
+E2I3334,The bestselling author wrote that the essay was based on autobiographical events.,Unambiguous,Was the essay based on the author’s life?,Y
+E2I4335,The curious toddler learned that the equations gave her brother a headache.,Unambiguous,Did the equations frustrate her brother?,Y
+E2I5336,The abashed publicist confirmed that the rumor was started by his daughter.,Unambiguous,Did the publicist’s daughter generate the rumor?,Y
+E2I6337,The vehement columnist asserted that the belief was drastically misleading the masses.,Unambiguous,Did the columnist think the opinion was correct?,N
+E2I7338,The apprentice mechanic maintained that the machinery was broken beyond repair.,Unambiguous,Could the machine be fixed?,N
+E2I8339,The befuddled foreigner repeated that the poem did not make logical sense.,Unambiguous,Did the foreigner understand the poem?,N
+E3I1340,The nervous candidate believed the interviewer had asked him interesting questions.,Ambiguous,Did the candidate like the interviewer’s questions?,Y
+E3I2341,The brilliant researcher figured the sum was impossible given the equation.,Ambiguous,Did the equation make the process easier? ,N
+E3I3342,The rookie athlete realized the mistake ruined her chances of winning.,Ambiguous,Would the athlete lose because of the mistake?,Y
+E3I4343,The undergraduate student concluded the lesson would not actually be useful.,Ambiguous,Was there a valuable lesson taught?,N
+E3I5344,The defense attorney inferred the reason would be argued strongly.,Ambiguous,Would the reason be argued well?,Y
+E3I6345,The freshman senator indicated the problem could be fixed through perseverance.,Ambiguous,Was the problem permanent?,N
+E3I7346,The auto mechanic admitted the error was on purpose for money.,Ambiguous,Was the error deceiving?,Y
+E3I8347,The appreciative employee implied the raise would help pay his debts.,Ambiguous,Did the raise disappoint the employee? ,N
+E4I1348,The respected actress suggested that the scene had been written very poorly.,Unambiguous,Was the actress satisfied?,N
+E4I2349,The train conductor worried that the passengers wouldn’t enjoy the long trip.,Unambiguous,Was the trip going to be long?,Y
+E4I3350,The angry protestor proved that the theory would not be universally accepted.,Unambiguous,Was the theory popular?,N
+E4I4351,The naïve politician assumed that the burden had was not his to carry.,Unambiguous,Was the politician responsible for the problem?,N
+E4I5352,The young teacher argued that the issue must be discussed in class.,Unambiguous,Was there a topic discussed?,Y
+E4I6353,The music reviewer decided that the appeal would not attract the band.,Unambiguous,Was the band turned off by the appeal?,Y
+E4I7354,The strict manager suspected that the workers deserved more discipline than required.,Unambiguous,Were the workers unreliable?,Y
+E4I8355,The ruthless outlaw claimed that the reward would not be convincing enough.,Unambiguous,Would the outlaw be turned in because of the reward?,N
+E9I1356,The hostess who surprised the father opened a bottle of fresh champagne.,,Did the hostess open a beer?,N
+E9I2357,The bishop who amazed the deacon drank the wine in the sanctuary.,,Did the bishop drink water?,N
+E9I3358,The celebrity who shocked the cameraman spent the day at the zoo.,,Did the celebrity go to the aquarium?,N
+E9I4359,The grandmother who fed the child took a nap in the afternoon.,,Did the grandmother watch tv?,N
+E9I5360,The officer who arrested the inspector released a statement to the press.,,Did the officer avoid the press?,N
+E9I6361,The therapist who trained the masseuse heated bath water for a client.,,Did the therapist give cold baths?,N
+E9I7362,The doctor who examined the resident stitched a wound with great ease.,,Did the wound give the doctor difficulty?,N
+E9I8363,The architect who fired the engineer built town houses for rich heiresses.,,Did the architect build country homes?,N
+E9I9364,The neighbor who imitated the housewife earned prize money for her pies.,,Did the neighbor bake pies?,Y
+E9I10365,The student who frightened the classmate received a detention when classes ended.,,Did the student have to stay after school?,Y
+E9I11366,The horticulturist who irritated the landscaper used his intuition to grow flowers.,,Did the horticulturist use his instincts?,Y
+E9I12367,The man who kicked the criminal participated in therapy for anger management.,,Did the man have trouble with anger?,Y
+E9I13368,The prostitute who outsmarted the pimp counted her money in the alley.,,Did the prostitute go through her cash?,Y
+E9I14369,The governor who blackmailed the mobster turned up dead in his office.,,Did the governor die?,Y
+E9I15370,The chef who extolled the talk show host brought good business the whole year.,,Did the chef attract business?,Y
+E9I16371,The servant who seduced the maid went to college on a scholarship.,,Did the servant attend college?,Y
+E10I1372,The mole who the defector exposed rejected the offer on the spot.,,Did the mole accept the offer?,N
+E10I2373,The singer who the organizer blamed cancelled the concert in Los Angeles.,,Did the singer perform in LA?,N
+E10I3374,The acrobat who the clown mocked performed the trick at the show.,,Did the acrobat skip the show?,N
+E10I4375,The customer who the seller upset forgot the receipt on the counter.,,Did the customer remember the receipt?,N
+E10I5376,The partner who the businessman introduced presented the report at the meeting.,,Did the partner miss the meeting?,N
+E10I6377,The messenger who the knight summoned read the letter from the king.,,Did the messenger read a book?,N
+E10I7378,The linguist who the historian ridiculed proposed the hypothesis for the problem.,,Did the linguist disagree with the hypothesis?,N
+E10I8379,The biker who the driver ignored made the turn at the crossing.,,Did the biker go straight?,N
+E10I9380,The lover who the painter regretted sent a rose in the evening.,,Did the lover give a flower?,Y
+E10I10381,The musician who the producer sensed played the piano in the studio.,,Did the musician play in the studio?,Y
+E10I11382,The principal who the scholar judged patrolled the hall during school hours.,,Did the principal walk the hallways?,Y
+E10I12383,The teammate who the athlete revived won the game on the field.  ,,Did the teammate win the game?,Y
+E10I13384,The wizard who the medicine man healed stopped the boat at the bridge.,,Did the wizard halt the boat?,Y
+E10I14385,The lord who the lady embraced ate the muffin in the kitchen.,,Did the lord eat in the kitchen?,Y
+E10I15386,The guard who the agent watched took a break at the shop.,,Did the guard take a break?,Y
+E10I16387,The sister who the brother supervised got some crayons from the box.,,Did the sister get crayons?,Y
+F11I1388,The clerk at the records office clarified the confusing statement on the application.,Filler,Was the statement very straightforward?,N
+F11I2389,The handsome prince offered but his bride's family declined the fortune.,Filler,Would the prince remain a bachelor?,N
+F11I3390,The two friends wagered their allowance on who would get the highest test score.,Filler,Did the friends bet on a baseball game?,N
+F11I4391,The mysterious woman divulged her deepest and darkest secrets to the bus driver.,Filler,Was the woman very shy?,N
+F11I5392,The radio newscaster verified the short and exciting report before the broadcast.,Filler,Was the report true?,Y
+F11I6393,The bargain shopper saw the beautiful and expensive raincoat after the sale was over.,Filler,Was the shopper careless with cash?,N
+F11I7394,The exuberant team planned a huge and extravagant party for after the game.,Filler,Did the team feel good about things?,Y
+F11I8395,The science teacher verified the unexpected results because she found them implausible.,Filler,Did the results seem strange?,Y
+F11I9396,The temporary assistant saw the short and inappropriate memo while rummaging through the files.,Filler,Did the assistant notice the memo?,Y
+F11I10397,The injured man imagined the attack while in the emergency room.,Filler,Had the man been assaulted?,Y
+F11I11398,The worried mother determined the explanation for why her son had been avoiding her.,Filler,Was the mother concerned about her son?,Y
+F11I12399,The flight attendant clarified the instructions when the passengers asked questions.,Filler,Was the flight attendant helpful?,Y
+F11I13400,The church workers offered the kids a free bible and some coloring books.,Filler,Did the workers offer them food?,N
+F11I14401,The curious girl comprehended the answer but asked the question again.,Filler,Did the girl understand the first time?,Y
+F11I15402,The office staff raced but there was no clear winner.,Filler,Did someone come in first place?,N
+F11I16403,The teacher's assistant divulged the purpose of her colleague's absence.,Filler,Did the assistant know the purpose?,Y
+F11I17404,Many of the cheerleaders recalled the difficult and strenuous routine from last year's homecoming game.,Filler,Did the cheerleaders forget the routine?,N
+F11I18405,The attorneys for the family disputed the authorities' version of what transpired.,Filler,Were the events completely agreed upon?,N
+F11I19406,The wealthy investor regretted the bad and unfortunate decision once he realized the consequences.,Filler,Was the investor rich?,Y
+F11I20407,The models in the fashion show revealed their stylish tank tops.,Filler,Were the models wearing sweaters?,N
+F11I21408,The I.R.S. agent demanded the full amount the week following the audit.,Filler,Did the audit go well?,N
+F11I22409,The poodle recognized his owner's scent on the clothing that was discovered.,Filler,Did the dog have a keen sense of smell?,Y
+F11I23410,The waitress promised her regulars a free cup of coffee.,Filler,Would the regulars have eggs?,N
+F11I24411,The foreign students sat down but couldn't understand the lecture.,Filler,Were the students a bit confused?,Y
+F11I25412,The angry mob announced their demands but still refused to negotiate.,Filler,Did the mob want to compromise?,N
+F11I26413,The nervous teenager lied to the judge to avoid incriminating his friend.,Filler,Did the witness commit perjury?,Y
+F11I27414,The bored librarian painted her fingernails after shelving several books.,Filler,Was the librarian very busy?,N
+F11I28415,The interior decorator hammered away and hung the painting on the wall.,Filler,Did the decorator hang a poster?,N
+F11I29416,The new salesman insulted the stranger and she left the store.,Filler,Was the stranger satisfied?,N
+F11I30417,The soccer player kicked the ball through the goalie's hands.,Filler,Did the soccer player score?,Y
+F11I31418,The thoughtful daughter cared for her elderly mother.,Filler,Was the mother taken care of?,Y
+F11I32419,The new homeowner slept in the room next to the garden.,Filler,Did the homeowner sleep near plants and shrubs?,Y
+E1I1420,As the gardener showered the flowers that were yellow and blue were gathered by a child.,RAT- ambig,Did the gardener take a shower?,Y
+
+E1I2421,While the nanny stripped the girl that was tearful and fussy threw a tantrum.,RAT- ambig,Did the nanny strip?,Y
+
+E1I3422,As the model covered up the portrait that was colorful and exact fell from the easel.,RAT- ambig,Did the model cover herself up?,Y
+
+E1I4423,While Kristin put make-up on the model that was tall and thin put on her outfit.,RAT- ambig,Did Kristin put make-up on?,Y
+
+E1I5424,As Chris worked out the issue that was confusing and unclear continued to worsen.,RAT- ambig,Did Chris work out?,Y
+
+E1I6425,While Dave lied down the tiles that were detailed and pricey were cleaned by the maid.,RAT- ambig,Did Dave lie down?,Y
+
+E1I7426,While Robert changed the paint that was vibrant and colorful spilled on the floor.,RAT- ambig,Did Robert change?,Y
+
+E1I8427,As the secretary transferred the files that were important and messy collected on her desk.,RAT- ambig,Did the secretary tranfer?,Y
+
+E1I9428,As the woman soaked the shirt that was clean and folded sat on the dresser.,RAT- ambig,Did the woman soak herself?,Y
+
+E1I10429,While the woman disrobed the mannequin that was frail and shapely stood in the store.,RAT- ambig,Did the woman disrobe?,Y
+
+E1I11430,As the student prepared the salad that was healthy and fresh remained in the refrigerator.,RAT- ambig,Did the student prepare herself?,Y
+
+E1I12431,While the squirrels relocated the acorns that were brown and ripe fell from the trees.,RAT- ambig,Did the squirrels relocate?,Y
+
+E2I1432,The child that was blond and pudgy giggled with delight while Jim bathed.,RAT- unambig,Did Jim bathe?,Y
+
+E2I2433,The baboons that were large and hairy sat in the grass as the chimps groomed.,RAT- unambig,Did the chimps groom themselves?,Y
+
+E2I3434,The car that was red and shiny sat in the driveway while Frank dried off.,RAT- unambig,Did Frank dry himself off?,Y
+
+E2I4435,The cat that was gray and white stared at the dog while the girl scratched.,RAT- unambig,Did the girl scratch herself?,Y
+
+E2I5436,The horse that was sleek and brown stood in the stall as the jockey settled down.,RAT- unambig,Did the jockey settle down?,Y
+
+E2I6437,The baby that was bald and helpless cried softly while the mother undressed.,RAT- unambig,Did the mother undress herself?,Y
+
+E2I7438,The neighbor that was old and cranky coughed loudly as Betty woke up.,RAT- unambig,Did Betty wake up?,Y
+
+E2I8439,The jewelry that was elegant and expensive sparkled brightly while the thief hid.,RAT- unambig,Did the theif hide?,Y
+
+E2I9440,The baby that was small and cute spit up on the bed as Anna dressed.,RAT- unambig,Did Anna dress herself?,Y
+
+E2I10441,The dog that was white and furry barked loudly while the boy washed.,RAT- unambig,Did the boy wash himself?,Y
+
+E2I11442,The patient that was tired and weak watched TV as the nurse shaved.,RAT- unambig,Did the nurse shave?,Y
+
+E2I12443,The children that were tired and irritable sat on the bed as the mother calmed down.,RAT- unambig,Did the mother calm down?,Y
+
+F3I1444,As Mark packed the suitcase Neil called the travel agent.,filler1,Did Neil pack the suitcase? ,N
+
+F3I2445,While the ambassador toured the country the bomb that was large and disastrous exploded in the capital.,filler1,Did the ambassador tour a castle? ,N
+
+F3I3446,As the police chased the prisoner they crashed their car.,filler1,Did the prisoner crash his car? ,N
+
+F3I4447,While the cashier bagged the groceries the customer that was flustered and rushing dropped the coupons.,filler1,Did the cashier drop the bag? ,N
+
+F3I5448,As the repairman patched the roof that was leaky and slippery he fell on the tiles.,filler1,Did the repairman fix the floor? ,N
+
+F3I6449,While the lawyer argued the case the jury that was arrogant and disrespectful slept in the courtroom.,filler1,Did the jury pay close attention? ,N
+
+F3I7450,As the grandma recited the story the son read in bed.,filler1,Did the grandma sleep in bed? ,N
+
+F3I8451,While Janis watched the fish she cleaned the tank.,filler1,Did Janis watch the cat? ,N
+
+F3I9452,As Michael stirred the filling the crust that was golden and delicious baked in the oven.,filler1,Did the filling bake in the oven? ,N
+
+F3I10453,While Alexander tasted the wine the butler answered the door.,filler1,Did the butler taste the wine? ,N
+
+F3I11454,As the researcher compiled the data he created graphs.,filler1,Did a lab assistant create the graphs? ,N
+
+F3I12455,While the father prepared the burgers he covered them with pepper.,filler1,Did the father cover the burgers with mustard? ,N
+
+F3I13456,As Christy recited the monologue the sister that was bored and sleepy left the room.,filler1,Did Christ recite the monologue? ,Y
+
+F3I14457,While Jennifer held the cigar that was aged and expensive she told bad jokes.,filler1,Did Jennifer tell bad jokes? ,Y
+
+F3I15458,As the realtor sold the house that was large and brick she celebrated with her colleagues.,filler1,Did the realtor sell the house? ,Y
+
+F3I16459,While the mother woke the son that was lazy and irresponsible she realized he was late for work.,filler1,Did the mother wake the son? ,Y
+
+F3I17460,As the grandpa picked the raspberries that were large and ripe he saved them for the granddaughter.,filler1,Did the grandpa pick the raspberries? ,Y
+
+F3I18461,While the man reversed the car he listened to the radio.,filler1,Did the man reverse the car? ,Y
+
+F3I19462,As the cat chased the mouse that was small and grey it slid on the linoleum.,filler1,Did the cat chase the mouse? ,Y
+
+F3I20463,While Richard dried the fruit that was ripe and delicious he bagged it for trail mix.,filler1,Did Richard dry the fruit? ,Y
+
+F3I21464,As the waiter lit the candle that was tall and thin he took the couple's order.,filler1,Did the waiter light the candle? ,Y
+
+F3I22465,While the kids teased the friend they watched the movie.,filler1,Did the kids watch the movie? ,Y
+
+F3I23466,As the golfer swung the club the caddy pulled the cart.,filler1,Did the caddy pull the cart? ,Y
+
+F3I24467,As the artist demonstrated the technique the painting that was exquisite and delicate fell off the easel.,filler1,Did the paiting fall off the easel? ,Y
+
+F3I25468,While the woman jumped rope she sprained her ankle.,filler1,Did the woman jump rope? ,Y
+
+F3I26469,While the archer aimed the bow the bird hid in the tree.,filler1,Did the archer aim the bow? ,Y
+
+F3I27470,While the goalie smoothed the ice that was rough and melting he fell on the center line.,filler1,Did the goalie maitain his balance? ,N
+
+F3I28471,As NASA launched the shuttle they taunted the Russians.,filler1,Did NASA reconcile with the Russians? ,N
+
+F3I29472,As the chef sampled the sauce she boiled the noodles.,filler1,Did the chef make pastries? ,N
+
+F3I30473,As the skier removed the skies he collapsed in the snow.,filler1,Did the skier keep his skies on? ,N
+
+F3I31474,As the maid tidied the house she made the bed.,filler1,Did the maid vacuum the floor? ,N
+
+F3I32475,As the contestant spun the wheel that was large and colorful she clapped her hands.,filler1,Did the contestant stay quiet? ,N
+
+F3I33476,While the secretary made the photocopy that was brief and important she broke the Xerox machine.,filler1,Did the secretar send a fax? ,N
+
+F3I34477,As the campers built the fire they gathered more wood.,filler1,Did the campers douse the fire? ,N
+
+F3I35478,As the biologist observed the specimen the patient that was feverish and dying screamed in pain.,filler1,Did the patiet feel better? ,N
+
+F3I36479,While the actor memorized the lines he walked his dog.,filler1,Did the actor walk aloe? ,N
+
+F3I37480,While the ghost rattled the chains that were metal and heavy it woke the tired child.,filler1,Did the child rattle chains? ,N
+
+F3I38481,As the salesman laced the shoe that was small and narrow he slid it on the customer's foot.,filler1,Did the customer wear a large and wide shoe? ,N
+
+F3I39482,While the doctor injected the medicine that was green and bubbly he held the patient.,filler1,Did the doctor give the patient a pill? ,N
+
+F3I40483,While the student used the clarinet the brother covered his ears.,filler1,Did the brother listen attetively? ,N
+
+F3I41484,While the choir sang the hymn the child squirmed in the pew.,filler1,Did the child sing a hymn? ,N
+
+F3I42485,While the minister married the couple he wore the robe.,filler1,Did the minister perform funeral services? ,N
+
+F4I1486,The poodle sniffed the food as he scratched his ear.,filler1,Did the poodle sniff the food?,Y
+
+F4I2487,Mabel fixed the socks while she watched the TV.,filler2,Did Mabel watch the fire? ,N
+
+F4I3488,Joseph freed the bird that was red and yellow as the zookeeper watched in horror.,filler2,Did Joseph free the lion? ,N
+
+F4I4489,The mother served the broccoli while the kids banged the table.,filler2,Did the kids bang the gong? ,N
+
+F4I5490,The tornado destroyed the city hall that was modern and spectacular as it visited the city.,filler2,Did the tornado destroy the auditorium? ,N
+
+F4I6491,The butterfly fluttered her wings while she laid the eggs.,filler2,Did the butterfly flutter her wings? ,Y
+
+F4I7492,Fido gnawed the milk bone that was small and tasty as Dave fed the cat.,filler2,Did Dave feed the cat? ,Y
+
+F4I8493,The camper stirred the beans that were brown and scrumptious while the fire warmed the pot.,filler2,Did the fire warm the house? ,N
+
+F4I9494,The mistress applied lipstick as she rode the bike.,filler2,Did the mistress ride the bike? ,Y
+
+F4I10495,The gymnast hurt her ankle that was twisted and swollen while she completed the vault.,filler2,Did the gymnast complete the vault? ,Y
+
+F4I11496,The professor scolded the student that was conscientious and reliable as they bumped in the hallway.,filler2,Did the professor scold the senator? ,N
+
+F4I12497,The grandma braided the pigtails that were thick and blonde while she groomed the girl.,filler2,Did the grandma braid the pigtails? ,Y
+
+F4I13498,Andrew observed the house that was dark and haunted as the mother baked the cookies.,filler2,Did the mother bake the cookies? ,Y
+
+F4I14499,The exterminator entered the school while the cockroaches scurried.,filler2,Did the exterminator enter the restaurant? ,N
+
+F4I15500,Gary lost the data that was rare and critical as he reformatted his hard drive.,filler2,Did Gary reformat his hard drive? ,Y
+
+F4I16501,Yasmeen memorized the formula that was long and complicated while the instructor erased the board.,filler2,Did the instructor erase the hard drive? ,N
+
+F4I17502,The cowboy branded the cow as he warmed the instrument over the fire.,filler2,Did the cowboy brand the goat? ,N
+
+F4I18503,The mother comforted the toddler that was chubby and scared while the clown handed him a balloon.,filler2,Did the mother comfort the toddler? ,Y
+
+F4I19504,The fireman rescued the kitten as the house burned to the ground.,filler2,Did the fireman rescue the kitten? ,Y
+
+F4I20505,The referee blew the whistle while he noticed the foul.,filler2,Did the referee notice the foul? ,Y
+
+F4I21506,The hostess folded the bedspread that was pink and musty as the guest entered the bedroom.,filler2,Did the hostess fold the bedspread? ,Y
+
+F4I22507,The kids mixed the ingredients while Tim kneaded the dough.,filler2,Did Tim knead the dough? ,Y
+
+F4I23508,The patient threatened suicide as the psychiatrist administered drugs.,filler2,Did the psychiatrist administer drugs? ,Y
+
+F4I24509,The guitarist plucked the guitar that was old and flat while the lovers entered the room.,filler2,Did the guitarist pluck the guitar? ,Y
+
+F4I25510,The toddler wore the pajamas as he went to bed.,filler2,Did the toddler go to bed? ,Y
+
+F4I26511,Mickey watched the parade while the drummer dropped his instrument.,filler2,Did the drummer drop his pants? ,N
+
+F4I27512,The woman cashed the check that was valuable and important as she stopped at the bank.,filler2,Did the woman cash the check? ,Y
+
+F4I28513,The archaeologist dug the pit that was deep and muddy as the supervisor broke the artifact.,filler2,Did the supervisor break the computer? ,N
+
+F4I29514,The wife washed the dishes as the husband did the laundry.,filler2,Did the wife wash the windows? ,N
+
+F4I30515,The class left the building that was large and brick as it formed a line.,filler2,Did the class leave a restaurant? ,N
+
+F4I31516,The bat bit James as he screamed.,filler2,Did the bat bite Kelly? ,N
+
+F4I32517,The truck driver wiped his brow while he removed his shirt.,filler2,Did the truck driver remove his watch? ,N
+
+F4I33518,The pitcher threw the pitch that was low and inside while the batter held the bat.,filler2,Did the batter hold the pipe? ,N
+
+F4I34519,Desmond held the football that was heavy and brown while Kevin took a fall.,filler2,Did Desmond hold the kitten? ,N
+
+F4I35520,Diana requested the painkiller as she began childbirth.,filler2,Did Diana request a hamburger? ,N
+
+F4I36521,Kate bought the vase that was gorgeous and delicate while the shopkeeper earned commission.,filler2,Did Kate buy the picture frame? ,N
+
+F4I37522,The judge addressed the jury that was rude and inattentive as the witness gave the testimony.,filler2,Did the judge address the class? ,N
+
+F4I38523,The blonde wore the bikini while she washed the car.,filler2,Did the blonde wash her hair? ,N
+
+F4I39524,The soldier went to war while the wife worried at home.,filler2,Did the wife worry at home? ,Y
+
+F4I40525,The postman delivered the package that was large and heavy while the neighbor watered the plants.,filler2,Did the neighbor deliver the package? ,N
+
+F4I41526,The construction worker eyed Karen as he poured the cement.,filler2,Did the construction worker weld a bolt? ,N
+
+F4I42527,The carpenter sanded the wood that was light and knotty as Marcia built the bench.,filler2,Did Marcia build the wagon? ,N
+
+F4I43528,The golden retriever buried the bone as he refilled the hole.,filler2,Did the golden retriever bury the toy? ,N
+
+F4I44529,The zookeeper held the snake that was strong and brown as the children touched it.,filler2,Did the children touch a bird? ,N
+
+F4I45530,The consumer contracted salmonella as she ate the hamburger.,filler2,Did the consumer eat the lemon? ,N
+
+F4I46531,The designer earned money while the miniskirt became popular.,filler2,Did the designer lose money? ,N
+
+F4I47532,The bowler whispered a prayer while he threw the ball.,filler2,Did the bowler use a racket? ,N
+
+F4I48533,The boys forgot the books that were heavy and thick as they left for school.,filler2,Did the boys bring their books? ,N
+E1I1534,The frustrated tourists understood the message would mean they couldn't go.,Ambiguous,Were the tourists happy about the message?,N
+
+E1I2535,The angry father emphasized the problems were continuing to get worse.,Ambiguous,Were the problems still bad?,Y
+
+E1I3536,The art critic wrote the interview had not been well received.,Ambiguous,Did the interview go over poorly?,Y
+
+E1I5537,The chemistry student learned the equations could have made measurement more precise.,Ambiguous,Was the student in sociology?,N
+E1I4538,The CIA director confirmed the rumor should have been stopped sooner.,Ambiguous,Should the rumor have been better controlled?,Y
+E1I6539,The concerned priest asserted the belief would be hard to explain.,Ambiguous,Would the belief be easily explained?,N
+E1I7540,The confident engineer maintained the machinery would be hard to destroy.,Ambiguous,Was the machinery easily ruined?,N
+E1I8541,The French teacher repeated the poem should be finished by Friday.,Ambiguous,Did the teacher instruct French?,Y
+E2I1542,The gossipy neighbor heard that the story had never actually been true.,Unambiguous,Did the story turn out to be false?,Y
+E2I3543,The journal editor printed that the article had been slanderous to him.,Unambiguous,Did the editor approve of the article?,N
+E2I5544,The new house-sitter forgot that the key would be under the doormat.,Unambiguous,Was this a regular house-sitter?,N
+E2I7545,The newspaper editor advocated that the truth needed to be made public.,Unambiguous,Did the editor want to reveal the truth?,Y
+E2I2546,The scuba diver discovered that the wreck was caused by a collision.,Unambiguous,Did an accident cause the wreck?,Y
+E2I4547,The surgical nurses protested that the policies were not fair to the patients.,Unambiguous,Were the nurses concerned about the patients?,Y
+E2I6548,The talented photographer accepted that the money could not be spent yet.,Unambiguous,Could the money be spent right away?,N
+E2I8549,The trained referees warned that the spectators would probably get too rowdy.,Unambiguous,Did people expect the fans to be calm?,N
+E3I1550,The film director suggested the scene should be filmed at night.,Ambiguous,Should the scene be shot at noon?,N
+E3I3551,The bus driver worried the passengers were starting to get annoyed.,Ambiguous,Were the passengers comfortable?,N
+E3I5552,The careful scientist proved the theory had not been properly tested.,Ambiguous,Did the scientist doubt the theory?,Y
+E3I2553,The class president assumed the burden would be shared by everyone.,Ambiguous,Was the burden to be shared?,Y
+E3I7554,The divorce lawyer argued the issue was irrelevant to the case.,Ambiguous,Did the lawyer specialize in divorce?,Y
+E3I4555,The experienced judge decided the appeal should be started right away.,Ambiguous,Should the appeal be delayed?,N
+E3I6556,The factory owner suspected the workers would probably go on strike.,Ambiguous,Was there a chance of a strike?,Y
+E3I8557,The anonymous informant claimed the reward did not influence his decision.,Ambiguous,Did the informant give his name?,N
+E4I1558,The job applicant believed that the interviewer had been dishonest with her.,Unambiguous,Did the applicant trust the interviewer?,N
+E4I3559,The math whiz figured that the sum could be calculated very quickly.,Unambiguous,Was the problem going to take long?,N
+E4I5560,The novice plumber realized that the mistake would cost him a lot.,Unambiguous,Would someone pay for the mistake?,Y
+E4I7561,The reading tutor concluded that the lesson could be finished very quickly.,Unambiguous,Would the lesson be brief?,Y
+E4I2562,The rejected bachelor inferred that the reason had never been openly stated.,Unambiguous,Was the reason openly revealed?,N
+E4I4563,The supply manager indicated that the problem would affect the whole office.,Unambiguous,Would the problem bother everyone?,Y
+E4I6564,The ticket agent admitted that the error had been careless and stupid.,Unambiguous,Did someone make a stupid mistake?,Y
+E4I8565,The union leader implied that the raise would keep them from striking.,Unambiguous,Would the raise cause a strike?,N
+E9I1566,The physician who consulted the cardiologist checked the files in his office.,,Were the files checked in the office?,Y
+E9I2567,The babysitter who liked the parents planned a trip to Puerto Rico.,,Was someone getting ready for a vacation?,Y
+E9I3568,The banker who informed the chairman invested a million in a start-up.,,Did someone refuse to invest money?,N
+E9I4569,The violinist who flattered the cellist played a piece from the symphony.,,Was the violinist flattered?,N
+E9I5570,The burglar who wounded the policeman reloaded the revolver in a hurry.,,Did a burglary take place?,Y
+E9I6571,The carpenter who punched the electrician quit the job a week later.,,Did the electrician and carpenter get along?,N
+E9I7572,The accountant who advised the statistician calculated the costs of the project.,,Were the professionals working together?,Y
+E9I8573,The model who approached the artist signed the contract for a year.,,Was a multi-year deal involved?,N
+E9I9574,The student who trusted the professor answered the question about the experiment.,,Was there a discussion about research?,Y
+E9I10575,The mobster who attacked the dealer organized some crimes in New York.,,Was the dealer attacked?,Y
+E9I11576,The investigator who overheard the cop closed the case without an arrest.,,Did someone eventually get convicted?,N
+E9I12577,The actor who respected the starlet forgot the lines during the scene.,,Were they getting ready for a music concert?,N
+E9I13578,The defendant who misled the lawyer blamed the system for the conviction.,,Was the system ultimately blamed?,Y
+E9I14579,The count who adored the princess brought a gift to the reception.,,Did someone offer a present?,Y
+E9I15580,The bachelor who pursued the socialite owned a company in the area.,,Was a break-up about to happen?,N
+E9I16581,The councilman who kissed the secretary covered the expenses for the party.,,Was the governor going to pay for the party?,N
+E10I1582,The contestant who the host offended ruined the show for the audience.,,Was the show a total success?,N
+E10I2583,The mathematician who the physicist addressed offered the proof at the conference.,,Were the scientists working in someone's office?,N
+E10I3584,The diplomat who the congressman insulted ended the negotiations on the spot.,,Did the negotiations go well?,N
+E10I4585,The priest who the nun thanked founded the shelter near the church.,,Were the priest and nun involved in charity?,Y
+E10I5586,The analyst who the governor queried proposed some changes to the plan.,,Was the analyst questioned?,Y
+E10I6587,The farmer who the expert questioned promoted the product at the fair.,,Would the product be promoted on TV?,N
+E10I7588,The official who the manager harassed questioned the policy of lowering wages.,,Was the policy being challenged?,Y
+E10I8589,The clerk who the director disliked typed the letter to the administration.,,Would the administration be receiving a letter?,Y
+E10I9590,The guitarist who the band recommended recorded the song for the album.,,Did the guitarist recommend the band?,N
+E10I10591,The salesman who the cashier resented mislabeled the products in the brochure.,,Was there an error in the brochure?,Y
+E10I11592,The waiter who the cook invited tasted the sauce for the meat.,,Did someone sample the meat?,N
+E10I12593,The medic who the doctor assisted borrowed the instrument for the surgery.,,Were the medical professionals preparing for an operation?,Y
+E10I13594,The passenger who the stewardess befriended remembered the flight across the Atlantic.,,Did they recall sailing across the ocean?,N
+E10I14595,The cheerleader who the quarterback bothered attended the game at the college.,,Did someone go to a professional game?,N
+E10I15596,The animator who the producer criticized offered a solution to the problem.,,Was an answer to the problem given?,Y
+E10I16597,The dictator who the dissident despised gave a speech about the protests.,,Were there problems in the government?,Y
+F11I1598,The clerk at the records office clarified the confusing statement on the application.,Filler,Was the statement very straightforward?,N
+F11I2599,The handsome prince offered but his bride's family declined the fortune.,Filler,Would the prince remain a bachelor?,N
+F11I3600,The two friends wagered their allowance on who would get the highest test score.,Filler,Did the friends bet on a baseball game?,N
+F11I4601,The mysterious woman divulged her deepest and darkest secrets to the bus driver.,Filler,Was the woman very shy?,N
+F11I5602,The radio newscaster verified the short and exciting report before the broadcast.,Filler,Was the report true?,Y
+F11I6603,The bargain shopper saw the beautiful and expensive raincoat after the sale was over.,Filler,Was the shopper careless with cash?,N
+F11I7604,The exuberant team planned a huge and extravagant party for after the game.,Filler,Did the team feel good about things?,Y
+F11I8605,The science teacher verified the unexpected results because she found them implausible.,Filler,Did the results seem strange?,Y
+F11I9606,The temporary assistant saw the short and inappropriate memo while rummaging through the files.,Filler,Did the assistant notice the memo?,Y
+F11I10607,The injured man imagined the attack while in the emergency room.,Filler,Had the man been assaulted?,Y
+F11I11608,The worried mother determined the explanation for why her son had been avoiding her.,Filler,Was the mother concerned about her son?,Y
+F11I12609,The flight attendant clarified the instructions when the passengers asked questions.,Filler,Was the flight attendant helpful?,Y
+F11I13610,The church workers offered the kids a free bible and some coloring books.,Filler,Did the workers offer them food?,N
+F11I14611,The curious girl comprehended the answer but asked the question again.,Filler,Did the girl understand the first time?,Y
+F11I15612,The office staff raced but there was no clear winner.,Filler,Did someone come in first place?,N
+F11I16613,The teacher's assistant divulged the purpose of her colleague's absence.,Filler,Did the assistant know the purpose?,Y
+F11I17614,Many of the cheerleaders recalled the difficult and strenuous routine from last year's homecoming game.,Filler,Did the cheerleaders forget the routine?,N
+F11I18615,The attorneys for the family disputed the authorities' version of what transpired.,Filler,Were the events completely agreed upon?,N
+F11I19616,The wealthy investor regretted the bad and unfortunate decision once he realized the consequences.,Filler,Was the investor rich?,Y
+F11I20617,The models in the fashion show revealed their stylish tank tops.,Filler,Were the models wearing sweaters?,N
+F11I21618,The I.R.S. agent demanded the full amount the week following the audit.,Filler,Did the audit go well?,N
+F11I22619,The poodle recognized his owner's scent on the clothing that was discovered.,Filler,Did the dog have a keen sense of smell?,Y
+F11I23620,The waitress promised her regulars a free cup of coffee.,Filler,Would the regulars have eggs?,N
+F11I24621,The foreign students sat down but couldn't understand the lecture.,Filler,Were the students a bit confused?,Y
+F11I25622,The angry mob announced their demands but still refused to negotiate.,Filler,Did the mob want to compromise?,N
+F11I26623,The nervous teenager lied to the judge to avoid incriminating his friend.,Filler,Did the witness commit perjury?,Y
+F11I27624,The bored librarian painted her fingernails after shelving several books.,Filler,Was the librarian very busy?,N
+F11I28625,The interior decorator hammered away and hung the painting on the wall.,Filler,Did the decorator hang a poster?,N
+F11I29626,The new salesman insulted the stranger and she left the store.,Filler,Was the stranger satisfied?,N
+F11I30627,The soccer player kicked the ball through the goalie's hands.,Filler,Did the soccer player score?,Y
+F11I31628,The thoughtful daughter cared for her elderly mother.,Filler,Was the mother taken care of?,Y
+F11I32629,The new homeowner slept in the room next to the garden.,Filler,Did the homeowner sleep near plants and shrubs?,Y
+E1I1630,The gossipy neighbor heard the story had never actually been true.,Ambiguous,Did the story turn out to be false?,Y
+E1I2631,The journal editor printed the article had been slanderous to him.,Ambiguous,Did the editor approve of the article?,N
+E1I3632,The new house-sitter forgot the key would be under the doormat.,Ambiguous,Was this a regular house-sitter?,N
+E1I4633,The newspaper editor advocated the truth needed to be made public.,Ambiguous,Did the editor want to reveal the truth?,Y
+E1I5634,The scuba diver discovered the wreck was caused by a collision.,Ambiguous,Did an accident cause the wreck?,Y
+E1I6635,The surgical nurses protested the policies were not fair to the patients.,Ambiguous,Were the nurses concerned about the patients?,Y
+E1I7636,The talented photographer accepted the money could not be spent yet.,Ambiguous,Could the money be spent right away?,N
+E1I8637,The trained referees warned the spectators would probably get too rowdy.,Ambiguous,Did people expect the fans to be calm?,N
+E2I1638,The frustrated tourists understood that the message would mean they couldn't go.,Unambiguous,Were the tourists happy about the message?,N
+E2I2639,The angry father emphasized that the problems were continuing to get worse.,Unambiguous,Were the problems still bad?,Y
+E2I3640,The art critic wrote that the interview had not been well received.,Unambiguous,Did the interview go over poorly?,Y
+E2I4641,The chemistry student learned that the equations could have made measurement more precise.,Unambiguous,Was the student in sociology?,N
+E2I5642,The CIA director confirmed that the rumor should have been stopped sooner.,Unambiguous,Should the rumor have been better controlled?,Y
+E2I6643,The concerned priest asserted that the belief would be hard to explain.,Unambiguous,Would the belief be easily explained?,N
+E2I7644,The confident engineer maintained that the machinery would be hard to destroy.,Unambiguous,Was the machinery easily ruined?,N
+E2I8645,The French teacher repeated that the poem should be finished by Friday.,Unambiguous,Did the teacher instruct French?,Y
+E3I1646,The job applicant believed the interviewer had been dishonest with her.,Ambiguous,Did the applicant trust the interviewer?,N
+E3I2647,The math whiz figured the sum could be calculated very quickly.,Ambiguous,Was the problem going to take long?,N
+E3I3648,The novice plumber realized the mistake would cost him a lot.,Ambiguous,Would someone pay for the mistake?,Y
+E3I4649,The reading tutor concluded the lesson could be finished very quickly.,Ambiguous,Would the lesson be brief?,Y
+E3I5650,The rejected bachelor inferred the reason had never been openly stated.,Ambiguous,Was the reason openly revealed?,N
+E3I6651,The supply manager indicated the problem would affect the whole office.,Ambiguous,Would the problem bother everyone?,Y
+E3I7652,The ticket agent admitted the error had been careless and stupid.,Ambiguous,Did someone make a stupid mistake?,Y
+E3I8653,The union leader implied the raise would keep them from striking.,Ambiguous,Would the raise cause a strike?,N
+E4I1654,The film director suggested that the scene should be filmed at night.,Unambiguous,Should the scene be shot at noon?,N
+E4I2655,The bus driver worried that the passengers were starting to get annoyed.,Unambiguous,Were the passengers comfortable?,N
+E4I3656,The careful scientist proved that the theory had not been properly tested.,Unambiguous,Did the scientist doubt the theory?,Y
+E4I4657,The class president assumed that the burden would be shared by everyone.,Unambiguous,Was the burden to be shared?,Y
+E4I5658,The divorce lawyer argued that the issue was irrelevant to the case.,Unambiguous,Did the lawyer specialize in divorce?,Y
+E4I6659,The experienced judge decided that the appeal should be started right away.,Unambiguous,Should the appeal be delayed?,N
+E4I7660,The factory owner suspected that the workers would probably go on strike.,Unambiguous,Was there a chance of a strike?,Y
+E4I8661,The anonymous informant claimed that the reward did not influence his decision.,Unambiguous,Did the informant give his name?,N
+E9I1662,The contestant who offended the host ruined the show for the audience.,,Was the show a total success?,N
+E9I2663,The mathematician who addressed the physicist offered the proof at the conference.,,Were the scientists working in someone's office?,N
+E9I3664,The diplomat who insulted the congressman ended the negotiations on the spot.,,Did the negotiations go well?,N
+E9I4665,The priest who thanked the nun founded the shelter near the church.,,Were the priest and nun involved in charity?,Y
+E9I5666,The analyst who queried the governor proposed some changes to the plan.,,Was the analyst questioned?,N
+E9I6667,The farmer who questioned the expert promoted the product at the fair.,,Would the product be promoted on TV?,N
+E9I7668,The official who harassed the manager questioned the policy of lowering wages.,,Was the policy being challenged?,Y
+E9I8669,The clerk who disliked the director typed the letter to the administration.,,Would the administration be receiving a letter?,Y
+E9I9670,The guitarist who recommended the band recorded the song for the album.,,Did the guitarist recommend the band?,Y
+E9I10671,The salesman who resented the cashier mislabeled the products in the brochure.,,Was there an error in the brochure?,Y
+E9I11672,The waiter who invited the cook tasted the sauce for the meat.,,Did someone sample the meat?,N
+E9I12673,The medic who assisted the doctor borrowed the instrument for the surgery.,,Were the medical professionals preparing for an operation?,Y
+E9I13674,The passenger who befriended the stewardess remembered the flight across the Atlantic.,,Did they recall sailing across the ocean?,N
+E9I14675,The cheerleader who bothered the quarterback attended the game at the college.,,Did someone go to a professional game?,N
+E9I15676,The animator who criticized the producer offered a solution to the problem.,,Was an answer to the problem given?,Y
+E9I16677,The dictator who despised the dissident gave a speech about the protests.,,Were there problems in the government?,Y
+E10I1678,The physician who the cardiologist consulted checked the files in his office.,,Were the files checked in the office?,Y
+E10I2679,The babysitter who the parents liked planned a trip to Puerto Rico.,,Was someone getting ready for a vacation?,Y
+E10I3680,The banker who the chairman informed invested a million in a start-up.,,Did someone refuse to invest money?,N
+E10I4681,The violinist who the cellist flattered played a piece from the symphony.,,Was the violinist flattered?,Y
+E10I5682,The burglar who the policeman wounded reloaded the revolver in a hurry.,,Did a burglary take place?,Y
+E10I6683,The carpenter who the electrician punched quit the job a week later.,,Did the electrician and carpenter get along?,N
+E10I7684,The accountant who the statistician advised calculated the costs of the project.,,Were the professionals working together?,Y
+E10I8685,The model who the artist approached signed the contract for a year.,,Was a multi-year deal involved?,N
+E10I9686,The student who the professor trusted answered the question about the experiment.,,Was there a discussion about research?,Y
+E10I10687,The mobster who the dealer attacked organized some crimes in New York.,,Was the dealer attacked?,N
+E10I11688,The investigator who the cop overheard closed the case without an arrest.,,Did someone eventually get convicted?,N
+E10I12689,The actor who the starlet respected forgot the lines during the scene.,,Were they getting ready for a music concert?,N
+E10I13690,The defendant who the lawyer misled blamed the system for the conviction.,,Was the system ultimately blamed?,Y
+E10I14691,The count who the princess adored brought a gift to the reception.,,Did someone offer a present?,Y
+E10I15692,The bachelor who the socialite pursued owned a company in the area.,,Was a break-up about to happen?,N
+E10I16693,The councilman who the secretary kissed covered the expenses for the party.,,Was the governor going to pay for the party?,N
+F11I1694,The clerk at the records office clarified the confusing statement on the application.,Filler,Was the statement very straightforward?,N
+F11I2695,The handsome prince offered but his bride's family declined the fortune.,Filler,Would the prince remain a bachelor?,N
+F11I3696,The two friends wagered their allowance on who would get the highest test score.,Filler,Did the friends bet on a baseball game?,N
+F11I4697,The mysterious woman divulged her deepest and darkest secrets to the bus driver.,Filler,Was the woman very shy?,N
+F11I5698,The radio newscaster verified the short and exciting report before the broadcast.,Filler,Was the report true?,Y
+F11I6699,The bargain shopper saw the beautiful and expensive raincoat after the sale was over.,Filler,Was the shopper careless with cash?,N
+F11I7700,The exuberant team planned a huge and extravagant party for after the game.,Filler,Did the team feel good about things?,Y
+F11I8701,The science teacher verified the unexpected results because she found them implausible.,Filler,Did the results seem strange?,Y
+F11I9702,The temporary assistant saw the short and inappropriate memo while rummaging through the files.,Filler,Did the assistant notice the memo?,Y
+F11I10703,The injured man imagined the attack while in the emergency room.,Filler,Had the man been assaulted?,Y
+F11I11704,The worried mother determined the explanation for why her son had been avoiding her.,Filler,Was the mother concerned about her son?,Y
+F11I12705,The flight attendant clarified the instructions when the passengers asked questions.,Filler,Was the flight attendant helpful?,Y
+F11I13706,The church workers offered the kids a free bible and some coloring books.,Filler,Did the workers offer them food?,N
+F11I14707,The curious girl comprehended the answer but asked the question again.,Filler,Did the girl understand the first time?,Y
+F11I15708,The office staff raced but there was no clear winner.,Filler,Did someone come in first place?,N
+F11I16709,The teacher's assistant divulged the purpose of her colleague's absence.,Filler,Did the assistant know the purpose?,Y
+F11I17710,Many of the cheerleaders recalled the difficult and strenuous routine from last year's homecoming game.,Filler,Did the cheerleaders forget the routine?,N
+F11I18711,The attorneys for the family disputed the authorities' version of what transpired.,Filler,Were the events completely agreed upon?,N
+F11I19712,The wealthy investor regretted the bad and unfortunate decision once he realized the consequences.,Filler,Was the investor rich?,Y
+F11I20713,The models in the fashion show revealed their stylish tank tops.,Filler,Were the models wearing sweaters?,N
+F11I21714,The I.R.S. agent demanded the full amount the week following the audit.,Filler,Did the audit go well?,N
+F11I22715,The poodle recognized his owner's scent on the clothing that was discovered.,Filler,Did the dog have a keen sense of smell?,Y
+F11I23716,The waitress promised her regulars a free cup of coffee.,Filler,Would the regulars have eggs?,N
+F11I24717,The foreign students sat down but couldn't understand the lecture.,Filler,Were the students a bit confused?,Y
+F11I25718,The angry mob announced their demands but still refused to negotiate.,Filler,Did the mob want to compromise?,N
+F11I26719,The nervous teenager lied to the judge to avoid incriminating his friend.,Filler,Did the witness commit perjury?,Y
+F11I27720,The bored librarian painted her fingernails after shelving several books.,Filler,Was the librarian very busy?,N
+F11I28721,The interior decorator hammered away and hung the painting on the wall.,Filler,Did the decorator hang a poster?,N
+F11I29722,The new salesman insulted the stranger and she left the store.,Filler,Was the stranger satisfied?,N
+F11I30723,The soccer player kicked the ball through the goalie's hands.,Filler,Did the soccer player score?,Y
+F11I31724,The thoughtful daughter cared for her elderly mother.,Filler,Was the mother taken care of?,Y
+F11I32725,The new homeowner slept in the room next to the garden.,Filler,Did the homeowner sleep near plants and shrubs?,Y
+E1I1726,As the servant bathed the king that was arrogant and pompous ate chocolate.,RAT- ambig,Did the servant bathe?,Y
+
+E1I2727,While the jockey groomed the horse that was wild and testy paced in the stall.,RAT- ambig,Did the jockey groom himself?,Y
+
+E1I3728,As the trainer dried off the dog that was playful and friendly fetched the stick.,RAT- ambig,Did the trainer dry himself off?,Y
+
+E1I4729,As the hero scratched the villain that was sneaky and traitorous kidnapped the blonde bombshell.,RAT- ambig,Did the hero scratch himself?,Y
+
+E1I5730,While the farmer settled down the pig that was pink and squealing escaped from its pen.,RAT- ambig,Did the farmer settle down?,Y
+
+E1I6731,As Molly undressed the teddy bear that was plush and huggable lost a button.,RAT- ambig,Did Molly undress herself?,Y
+
+E1I7732,While the baby-sitter woke up the infant that was tiny and fragile cried in his crib.,RAT- ambig,Did the baby-sitter wake up?,Y
+
+E1I8733,As the mother hid the cookies that were warm and gooey baked in the oven.,RAT- ambig,Did the mother hide?,Y
+
+E1I9734,While the tailor dressed the figurine that was tall and shapely fell over.,RAT- ambig,Did the tailor dress himself?,Y
+
+E1I10735,As the adolescent washed the dishes that were orange and greasy sat in the sink.,RAT- ambig,Did the adolescent wash herself?,Y
+
+E1I11736,While the barber shaved the customer that was hurried and impatient left the shop.,RAT- ambig,Did the barber shave?,Y
+
+E1I12737,While the secretary calmed down the client that was ruined and desperate staked out the building.,RAT- ambig,Did the secretary calm down?,Y
+
+E2I1738,The cat that was sickly and thin mewed in its cage while the veterinarian showered.,RAT- unambig,Did the veterinarian take a shower?,Y
+
+E2I2739,The curtains that were faded and musty blocked the light as the dancer stripped.,RAT- unambig,Did the dancer strip?,Y
+
+E2I3740,The statue that was chiseled and perfect stood erect while the sculptor covered up.,RAT- unambig,Did the sculptor cover himself up?,Y
+
+E2I4741,The actress that was famous and beautiful walked onto the set as the artist put make-up on.,RAT- unambig,Did the artist put make-up on?,Y
+
+E2I5742,The contract that was beneficial and generous was signed while the manager worked out.,RAT- unambig,Did the manager work out?,Y
+
+E2I6743,The book that was intellectual and depressing stayed on the shelf as the librarian lay down.,RAT- unambig,Did the librarian lie down?,Y
+
+E2I7744,The filter that was old and dirty collected dust as the maid changed.,RAT- unambig,Did the maid change?,Y
+
+E2I8745,The caller that was eager and animated accidentally hung up while the operator transferred.,RAT- unambig,Did the operator transfer?,Y
+
+E2I9746,The groom that was handsome and smiling put away his tuxedo while the bride soaked.,RAT- unambig,Did the bride soak herself?,Y
+
+E2I10747,The courtesan that was graceful and voluptuous poured the wine as the prince disrobed.,RAT- unambig,Did the prince disrobe?,Y
+
+E2I11748,The meat that was tender and succulent went through the grinder while the butcher prepared.,RAT- unambig,Did the butcher prepare himself?,Y
+
+E2I12749,The store that was small and unsuccessful held a sale as the CEO relocated.,RAT- unambig,Did the CEO relocate?,Y
+
+F3I1750,As Mark packed the suitcase Neil called the travel agent.,filler1,Did Neil pack the suitcase? ,N
+
+F3I2751,While the ambassador toured the country the bomb that was large and disastrous exploded in the capital.,filler1,Did the ambassador tour a castle? ,N
+
+F3I3752,As the police chased the prisoner they crashed their car.,filler1,Did the prisoner crash his car? ,N
+
+F3I4753,While the cashier bagged the groceries the customer that was flustered and rushing dropped the coupons.,filler1,Did the cashier drop the bag? ,N
+
+F3I5754,As the repairman patched the roof that was leaky and slippery he fell on the tiles.,filler1,Did the repairman fix the floor? ,N
+
+F3I6755,While the lawyer argued the case the jury that was arrogant and disrespectful slept in the courtroom.,filler1,Did the jury pay close attention? ,N
+
+F3I7756,As the grandma recited the story the son read in bed.,filler1,Did the grandma sleep in bed? ,N
+
+F3I8757,While Janis watched the fish she cleaned the tank.,filler1,Did Janis watch the cat? ,N
+
+F3I9758,As Michael stirred the filling the crust that was golden and delicious baked in the oven.,filler1,Did the filling bake in the oven? ,N
+
+F3I10759,While Alexander tasted the wine the butler answered the door.,filler1,Did the butler taste the wine? ,N
+
+F3I11760,As the researcher compiled the data he created graphs.,filler1,Did a lab assistant create the graphs? ,N
+
+F3I12761,While the father prepared the burgers he covered them with pepper.,filler1,Did the father cover the burgers with mustard? ,N
+
+F3I13762,As Christy recited the monologue the sister that was bored and sleepy left the room.,filler1,Did Christ recite the monologue? ,Y
+
+F3I14763,While Jennifer held the cigar that was aged and expensive she told bad jokes.,filler1,Did Jennifer tell bad jokes? ,Y
+
+F3I15764,As the realtor sold the house that was large and brick she celebrated with her colleagues.,filler1,Did the realtor sell the house? ,Y
+
+F3I16765,While the mother woke the son that was lazy and irresponsible she realized he was late for work.,filler1,Did the mother wake the son? ,Y
+
+F3I17766,As the grandpa picked the raspberries that were large and ripe he saved them for the granddaughter.,filler1,Did the grandpa pick the raspberries? ,Y
+
+F3I18767,While the man reversed the car he listened to the radio.,filler1,Did the man reverse the car? ,Y
+
+F3I19768,As the cat chased the mouse that was small and grey it slid on the linoleum.,filler1,Did the cat chase the mouse? ,Y
+
+F3I20769,While Richard dried the fruit that was ripe and delicious he bagged it for trail mix.,filler1,Did Richard dry the fruit? ,Y
+
+F3I21770,As the waiter lit the candle that was tall and thin he took the couple's order.,filler1,Did the waiter light the candle? ,Y
+
+F3I22771,While the kids teased the friend they watched the movie.,filler1,Did the kids watch the movie? ,Y
+
+F3I23772,As the golfer swung the club the caddy pulled the cart.,filler1,Did the caddy pull the cart? ,Y
+
+F3I24773,As the artist demonstrated the technique the painting that was exquisite and delicate fell off the easel.,filler1,Did the paiting fall off the easel? ,Y
+
+F3I25774,While the woman jumped rope she sprained her ankle.,filler1,Did the woman jump rope? ,Y
+
+F3I26775,While the archer aimed the bow the bird hid in the tree.,filler1,Did the archer aim the bow? ,Y
+
+F3I27776,While the goalie smoothed the ice that was rough and melting he fell on the center line.,filler1,Did the goalie maitain his balance? ,N
+
+F3I28777,As NASA launched the shuttle they taunted the Russians.,filler1,Did NASA reconcile with the Russians? ,N
+
+F3I29778,As the chef sampled the sauce she boiled the noodles.,filler1,Did the chef make pastries? ,N
+
+F3I30779,As the skier removed the skies he collapsed in the snow.,filler1,Did the skier keep his skies on? ,N
+
+F3I31780,As the maid tidied the house she made the bed.,filler1,Did the maid vacuum the floor? ,N
+
+F3I32781,As the contestant spun the wheel that was large and colorful she clapped her hands.,filler1,Did the contestant stay quiet? ,N
+
+F3I33782,While the secretary made the photocopy that was brief and important she broke the Xerox machine.,filler1,Did the secretar send a fax? ,N
+
+F3I34783,As the campers built the fire they gathered more wood.,filler1,Did the campers douse the fire? ,N
+
+F3I35784,As the biologist observed the specimen the patient that was feverish and dying screamed in pain.,filler1,Did the patiet feel better? ,N
+
+F3I36785,While the actor memorized the lines he walked his dog.,filler1,Did the actor walk aloe? ,N
+
+F3I37786,While the ghost rattled the chains that were metal and heavy it woke the tired child.,filler1,Did the child rattle chains? ,N
+
+F3I38787,As the salesman laced the shoe that was small and narrow he slid it on the customer's foot.,filler1,Did the customer wear a large and wide shoe? ,N
+
+F3I39788,While the doctor injected the medicine that was green and bubbly he held the patient.,filler1,Did the doctor give the patient a pill? ,N
+
+F3I40789,While the student used the clarinet the brother covered his ears.,filler1,Did the brother listen attetively? ,N
+
+F3I41790,While the choir sang the hymn the child squirmed in the pew.,filler1,Did the child sing a hymn? ,N
+
+F3I42791,While the minister married the couple he wore the robe.,filler1,Did the minister perform funeral services? ,N
+
+F4I1792,The poodle sniffed the food as he scratched his ear.,filler1,Did the poodle sniff the food?,Y
+
+F4I2793,Mabel fixed the socks while she watched the TV.,filler2,Did Mabel watch the fire? ,N
+
+F4I3794,Joseph freed the bird that was red and yellow as the zookeeper watched in horror.,filler2,Did Joseph free the lion? ,N
+
+F4I4795,The mother served the broccoli while the kids banged the table.,filler2,Did the kids bang the gong? ,N
+
+F4I5796,The tornado destroyed the city hall that was modern and spectacular as it visited the city.,filler2,Did the tornado destroy the auditorium? ,N
+
+F4I6797,The butterfly fluttered her wings while she laid the eggs.,filler2,Did the butterfly flutter her wings? ,Y
+
+F4I7798,Fido gnawed the milk bone that was small and tasty as Dave fed the cat.,filler2,Did Dave feed the cat? ,Y
+
+F4I8799,The camper stirred the beans that were brown and scrumptious while the fire warmed the pot.,filler2,Did the fire warm the house? ,N
+
+F4I9800,The mistress applied lipstick as she rode the bike.,filler2,Did the mistress ride the bike? ,Y
+
+F4I10801,The gymnast hurt her ankle that was twisted and swollen while she completed the vault.,filler2,Did the gymnast complete the vault? ,Y
+
+F4I11802,The professor scolded the student that was conscientious and reliable as they bumped in the hallway.,filler2,Did the professor scold the senator? ,N
+
+F4I12803,The grandma braided the pigtails that were thick and blonde while she groomed the girl.,filler2,Did the grandma braid the pigtails? ,Y
+
+F4I13804,Andrew observed the house that was dark and haunted as the mother baked the cookies.,filler2,Did the mother bake the cookies? ,Y
+
+F4I14805,The exterminator entered the school while the cockroaches scurried.,filler2,Did the exterminator enter the restaurant? ,N
+
+F4I15806,Gary lost the data that was rare and critical as he reformatted his hard drive.,filler2,Did Gary reformat his hard drive? ,Y
+
+F4I16807,Yasmeen memorized the formula that was long and complicated while the instructor erased the board.,filler2,Did the instructor erase the hard drive? ,N
+
+F4I17808,The cowboy branded the cow as he warmed the instrument over the fire.,filler2,Did the cowboy brand the goat? ,N
+
+F4I18809,The mother comforted the toddler that was chubby and scared while the clown handed him a balloon.,filler2,Did the mother comfort the toddler? ,Y
+
+F4I19810,The fireman rescued the kitten as the house burned to the ground.,filler2,Did the fireman rescue the kitten? ,Y
+
+F4I20811,The referee blew the whistle while he noticed the foul.,filler2,Did the referee notice the foul? ,Y
+
+F4I21812,The hostess folded the bedspread that was pink and musty as the guest entered the bedroom.,filler2,Did the hostess fold the bedspread? ,Y
+
+F4I22813,The kids mixed the ingredients while Tim kneaded the dough.,filler2,Did Tim knead the dough? ,Y
+
+F4I23814,The patient threatened suicide as the psychiatrist administered drugs.,filler2,Did the psychiatrist administer drugs? ,Y
+
+F4I24815,The guitarist plucked the guitar that was old and flat while the lovers entered the room.,filler2,Did the guitarist pluck the guitar? ,Y
+
+F4I25816,The toddler wore the pajamas as he went to bed.,filler2,Did the toddler go to bed? ,Y
+
+F4I26817,Mickey watched the parade while the drummer dropped his instrument.,filler2,Did the drummer drop his pants? ,N
+
+F4I27818,The woman cashed the check that was valuable and important as she stopped at the bank.,filler2,Did the woman cash the check? ,Y
+
+F4I28819,The archaeologist dug the pit that was deep and muddy as the supervisor broke the artifact.,filler2,Did the supervisor break the computer? ,N
+
+F4I29820,The wife washed the dishes as the husband did the laundry.,filler2,Did the wife wash the windows? ,N
+
+F4I30821,The class left the building that was large and brick as it formed a line.,filler2,Did the class leave a restaurant? ,N
+
+F4I31822,The bat bit James as he screamed.,filler2,Did the bat bite Kelly? ,N
+
+F4I32823,The truck driver wiped his brow while he removed his shirt.,filler2,Did the truck driver remove his watch? ,N
+
+F4I33824,The pitcher threw the pitch that was low and inside while the batter held the bat.,filler2,Did the batter hold the pipe? ,N
+
+F4I34825,Desmond held the football that was heavy and brown while Kevin took a fall.,filler2,Did Desmond hold the kitten? ,N
+
+F4I35826,Diana requested the painkiller as she began childbirth.,filler2,Did Diana request a hamburger? ,N
+
+F4I36827,Kate bought the vase that was gorgeous and delicate while the shopkeeper earned commission.,filler2,Did Kate buy the picture frame? ,N
+
+F4I37828,The judge addressed the jury that was rude and inattentive as the witness gave the testimony.,filler2,Did the judge address the class? ,N
+
+F4I38829,The blonde wore the bikini while she washed the car.,filler2,Did the blonde wash her hair? ,N
+
+F4I39830,The soldier went to war while the wife worried at home.,filler2,Did the wife worry at home? ,Y
+
+F4I40831,The postman delivered the package that was large and heavy while the neighbor watered the plants.,filler2,Did the neighbor deliver the package? ,N
+
+F4I41832,The construction worker eyed Karen as he poured the cement.,filler2,Did the construction worker weld a bolt? ,N
+
+F4I42833,The carpenter sanded the wood that was light and knotty as Marcia built the bench.,filler2,Did Marcia build the wagon? ,N
+
+F4I43834,The golden retriever buried the bone as he refilled the hole.,filler2,Did the golden retriever bury the toy? ,N
+
+F4I44835,The zookeeper held the snake that was strong and brown as the children touched it.,filler2,Did the children touch a bird? ,N
+
+F4I45836,The consumer contracted salmonella as she ate the hamburger.,filler2,Did the consumer eat the lemon? ,N
+
+F4I46837,The designer earned money while the miniskirt became popular.,filler2,Did the designer lose money? ,N
+
+F4I47838,The bowler whispered a prayer while he threw the ball.,filler2,Did the bowler use a racket? ,N
+
+F4I48839,The boys forgot the books that were heavy and thick as they left for school.,filler2,Did the boys bring their books? ,N
+E1I1840,While the veterinarian showered the cat that was sickly and thin mewed in its cage.,RAT- ambiguous,Did the veterinarian take a shower?,Y
+
+E1I2841,As the dancer stripped the curtains that were faded and musty blocked the light.,RAT- ambiguous,Did the dancer strip?,Y
+
+E1I3842,While the sculptor covered up the statue that was chiseled and perfect stood erect.,RAT- ambiguous,Did the sculptor cover himself up?,Y
+
+E1I4843,As the artist put make-up on the actress that was famous and beautiful walked onto the set.,RAT- ambiguous,Did the artist put make-up on?,Y
+
+E1I5844,While the manager worked out the contract that was beneficial and generous was signed.,RAT- ambiguous,Did the manager work out?,Y
+
+E1I6845,As the librarian lay down the book that was intellectual and depressing stayed on the shelf.,RAT- ambiguous,Did the librarian lie down?,Y
+
+E1I7846,As the maid changed the filter that was old and dirty collected dust.,RAT- ambiguous,Did the maid change?,Y
+
+E1I8847,While the operator transferred the caller that was eager and animated accidentally hung up.,RAT- ambiguous,Did the operator transfer?,Y
+
+E1I9848,While the bride soaked the groom that was handsome and smiling put away his tuxedo.,RAT- ambiguous,Did the bride soak herself?,Y
+
+E1I10849,As the prince disrobed the courtesan that was graceful and voluptuous poured the wine.,RAT- ambiguous,Did the prince disrobe?,Y
+
+E1I11850,While the butcher prepared the meat that was tender and succulent went through the grinder.,RAT- ambiguous,Did the butcher prepare himself?,Y
+
+E1I12851,As the CEO relocated the store that was small and unsuccessful held a sale.,RAT- ambiguous,Did the CEO relocate?,Y
+
+E2I1852,The king that was arrogant and pompous ate dark chocolate as the servant bathed.,RAT- unambiguous,Did the servant bathe?,Y
+
+E2I2853,The horse that was wild and testy paced in the stall while the jockey groomed.,RAT- unambiguous,Did the jockey groom himself?,Y
+
+E2I3854,The dog that was playful and friendly fetched the stick as the trainer dried off.,RAT- unambiguous,Did the trainer dry himself off?,Y
+
+E2I4855,The villain that was sneaky and traitorous kidnapped the blonde bombshell as the hero scratched.  ,RAT- unambiguous,Did the hero scratch himself?,Y
+
+E2I5856,The pig that was pink and squealing escaped from its pen while the farmer settled down.,RAT- unambiguous,Did the farmer settle down?,Y
+
+E2I6857,The teddy bear that was plush and huggable lost a button as the girl undressed.,RAT- unambiguous,Did Molly undress herself?,Y
+
+E2I7858,The infant that was tiny and fragile cried in his crib while the baby-sitter woke up.,RAT- unambiguous,Did the baby-sitter wake up?,Y
+
+E2I8859,The cookies that were warm and gooey baked in the oven as the mother hid.,RAT- unambiguous,Did the mother hide?,Y
+
+E2I9860,The figurine that was tall and shapely fell over while the tailor dressed.,RAT- unambiguous,Did the tailor dress himself?,Y
+
+E2I10861,The dishes that were orange and greasy sat in the sink as the adolescent washed.,RAT- unambiguous,Did the adolescent wash herself?,Y
+
+E2I11862,The customer that was hurried and impatient left the shop while the barber shaved.,RAT- unambiguous,Did the barber shave?,Y
+
+E2I12863,The client that was ruined and desperate staked out the building while the secretary calmed down.,RAT- unambiguous,Did the secretary calm down?,Y
+
+F3I1864,As Mark packed the suitcase Neil called the travel agent.,filler1,Did Neil pack the suitcase? ,N
+
+F3I2865,While the ambassador toured the country the bomb that was large and disastrous exploded in the capital.,filler1,Did the ambassador tour a castle? ,N
+
+F3I3866,As the police chased the prisoner they crashed their car.,filler1,Did the prisoner crash his car? ,N
+
+F3I4867,While the cashier bagged the groceries the customer that was flustered and rushing dropped the coupons.,filler1,Did the cashier drop the bag? ,N
+
+F3I5868,As the repairman patched the roof that was leaky and slippery he fell on the tiles.,filler1,Did the repairman fix the floor? ,N
+
+F3I6869,While the lawyer argued the case the jury that was arrogant and disrespectful slept in the courtroom.,filler1,Did the jury pay close attention? ,N
+
+F3I7870,As the grandma recited the story the son read in bed.,filler1,Did the grandma sleep in bed? ,N
+
+F3I8871,While Janis watched the fish she cleaned the tank.,filler1,Did Janis watch the cat? ,N
+
+F3I9872,As Michael stirred the filling the crust that was golden and delicious baked in the oven.,filler1,Did the filling bake in the oven? ,N
+
+F3I10873,While Alexander tasted the wine the butler answered the door.,filler1,Did the butler taste the wine? ,N
+
+F3I11874,As the researcher compiled the data he created graphs.,filler1,Did a lab assistant create the graphs? ,N
+
+F3I12875,While the father prepared the burgers he covered them with pepper.,filler1,Did the father cover the burgers with mustard? ,N
+
+F3I13876,As Christy recited the monologue the sister that was bored and sleepy left the room.,filler1,Did Christ recite the monologue? ,Y
+
+F3I14877,While Jennifer held the cigar that was aged and expensive she told bad jokes.,filler1,Did Jennifer tell bad jokes? ,Y
+
+F3I15878,As the realtor sold the house that was large and brick she celebrated with her colleagues.,filler1,Did the realtor sell the house? ,Y
+
+F3I16879,While the mother woke the son that was lazy and irresponsible she realized he was late for work.,filler1,Did the mother wake the son? ,Y
+
+F3I17880,As the grandpa picked the raspberries that were large and ripe he saved them for the granddaughter.,filler1,Did the grandpa pick the raspberries? ,Y
+
+F3I18881,While the man reversed the car he listened to the radio.,filler1,Did the man reverse the car? ,Y
+
+F3I19882,As the cat chased the mouse that was small and grey it slid on the linoleum.,filler1,Did the cat chase the mouse? ,Y
+
+F3I20883,While Richard dried the fruit that was ripe and delicious he bagged it for trail mix.,filler1,Did Richard dry the fruit? ,Y
+
+F3I21884,As the waiter lit the candle that was tall and thin he took the couple's order.,filler1,Did the waiter light the candle? ,Y
+
+F3I22885,While the kids teased the friend they watched the movie.,filler1,Did the kids watch the movie? ,Y
+
+F3I23886,As the golfer swung the club the caddy pulled the cart.,filler1,Did the caddy pull the cart? ,Y
+
+F3I24887,As the artist demonstrated the technique the painting that was exquisite and delicate fell off the easel.,filler1,Did the paiting fall off the easel? ,Y
+
+F3I25888,While the woman jumped rope she sprained her ankle.,filler1,Did the woman jump rope? ,Y
+
+F3I26889,While the archer aimed the bow the bird hid in the tree.,filler1,Did the archer aim the bow? ,Y
+
+F3I27890,While the goalie smoothed the ice that was rough and melting he fell on the center line.,filler1,Did the goalie maitain his balance? ,N
+
+F3I28891,As NASA launched the shuttle they taunted the Russians.,filler1,Did NASA reconcile with the Russians? ,N
+
+F3I29892,As the chef sampled the sauce she boiled the noodles.,filler1,Did the chef make pastries? ,N
+
+F3I30893,As the skier removed the skies he collapsed in the snow.,filler1,Did the skier keep his skies on? ,N
+
+F3I31894,As the maid tidied the house she made the bed.,filler1,Did the maid vacuum the floor? ,N
+
+F3I32895,As the contestant spun the wheel that was large and colorful she clapped her hands.,filler1,Did the contestant stay quiet? ,N
+
+F3I33896,While the secretary made the photocopy that was brief and important she broke the Xerox machine.,filler1,Did the secretar send a fax? ,N
+
+F3I34897,As the campers built the fire they gathered more wood.,filler1,Did the campers douse the fire? ,N
+
+F3I35898,As the biologist observed the specimen the patient that was feverish and dying screamed in pain.,filler1,Did the patiet feel better? ,N
+
+F3I36899,While the actor memorized the lines he walked his dog.,filler1,Did the actor walk aloe? ,N
+
+F3I37900,While the ghost rattled the chains that were metal and heavy it woke the tired child.,filler1,Did the child rattle chains? ,N
+
+F3I38901,As the salesman laced the shoe that was small and narrow he slid it on the customer's foot.,filler1,Did the customer wear a large and wide shoe? ,N
+
+F3I39902,While the doctor injected the medicine that was green and bubbly he held the patient.,filler1,Did the doctor give the patient a pill? ,N
+
+F3I40903,While the student used the clarinet the brother covered his ears.,filler1,Did the brother listen attetively? ,N
+
+F3I41904,While the choir sang the hymn the child squirmed in the pew.,filler1,Did the child sing a hymn? ,N
+
+F3I42905,While the minister married the couple he wore the robe.,filler1,Did the minister perform funeral services? ,N
+
+F4I1906,The poodle sniffed the food as he scratched his ear.,filler1,Did the poodle sniff the food?,Y
+
+F4I2907,Mabel fixed the socks while she watched the TV.,filler2,Did Mabel watch the fire? ,N
+
+F4I3908,Joseph freed the bird that was red and yellow as the zookeeper watched in horror.,filler2,Did Joseph free the lion? ,N
+
+F4I4909,The mother served the broccoli while the kids banged the table.,filler2,Did the kids bang the gong? ,N
+
+F4I5910,The tornado destroyed the city hall that was modern and spectacular as it visited the city.,filler2,Did the tornado destroy the auditorium? ,N
+
+F4I6911,The butterfly fluttered her wings while she laid the eggs.,filler2,Did the butterfly flutter her wings? ,Y
+
+F4I7912,Fido gnawed the milk bone that was small and tasty as Dave fed the cat.,filler2,Did Dave feed the cat? ,Y
+
+F4I8913,The camper stirred the beans that were brown and scrumptious while the fire warmed the pot.,filler2,Did the fire warm the house? ,N
+
+F4I9914,The mistress applied lipstick as she rode the bike.,filler2,Did the mistress ride the bike? ,Y
+
+F4I10915,The gymnast hurt her ankle that was twisted and swollen while she completed the vault.,filler2,Did the gymnast complete the vault? ,Y
+
+F4I11916,The professor scolded the student that was conscientious and reliable as they bumped in the hallway.,filler2,Did the professor scold the senator? ,N
+
+F4I12917,The grandma braided the pigtails that were thick and blonde while she groomed the girl.,filler2,Did the grandma braid the pigtails? ,Y
+
+F4I13918,Andrew observed the house that was dark and haunted as the mother baked the cookies.,filler2,Did the mother bake the cookies? ,Y
+
+F4I14919,The exterminator entered the school while the cockroaches scurried.,filler2,Did the exterminator enter the restaurant? ,N
+
+F4I15920,Gary lost the data that was rare and critical as he reformatted his hard drive.,filler2,Did Gary reformat his hard drive? ,Y
+
+F4I16921,Yasmeen memorized the formula that was long and complicated while the instructor erased the board.,filler2,Did the instructor erase the hard drive? ,N
+
+F4I17922,The cowboy branded the cow as he warmed the instrument over the fire.,filler2,Did the cowboy brand the goat? ,N
+
+F4I18923,The mother comforted the toddler that was chubby and scared while the clown handed him a balloon.,filler2,Did the mother comfort the toddler? ,Y
+
+F4I19924,The fireman rescued the kitten as the house burned to the ground.,filler2,Did the fireman rescue the kitten? ,Y
+
+F4I20925,The referee blew the whistle while he noticed the foul.,filler2,Did the referee notice the foul? ,Y
+
+F4I21926,The hostess folded the bedspread that was pink and musty as the guest entered the bedroom.,filler2,Did the hostess fold the bedspread? ,Y
+
+F4I22927,The kids mixed the ingredients while Tim kneaded the dough.,filler2,Did Tim knead the dough? ,Y
+
+F4I23928,The patient threatened suicide as the psychiatrist administered drugs.,filler2,Did the psychiatrist administer drugs? ,Y
+
+F4I24929,The guitarist plucked the guitar that was old and flat while the lovers entered the room.,filler2,Did the guitarist pluck the guitar? ,Y
+
+F4I25930,The toddler wore the pajamas as he went to bed.,filler2,Did the toddler go to bed? ,Y
+
+F4I26931,Mickey watched the parade while the drummer dropped his instrument.,filler2,Did the drummer drop his pants? ,N
+
+F4I27932,The woman cashed the check that was valuable and important as she stopped at the bank.,filler2,Did the woman cash the check? ,Y
+
+F4I28933,The archaeologist dug the pit that was deep and muddy as the supervisor broke the artifact.,filler2,Did the supervisor break the computer? ,N
+
+F4I29934,The wife washed the dishes as the husband did the laundry.,filler2,Did the wife wash the windows? ,N
+
+F4I30935,The class left the building that was large and brick as it formed a line.,filler2,Did the class leave a restaurant? ,N
+
+F4I31936,The bat bit James as he screamed.,filler2,Did the bat bite Kelly? ,N
+
+F4I32937,The truck driver wiped his brow while he removed his shirt.,filler2,Did the truck driver remove his watch? ,N
+
+F4I33938,The pitcher threw the pitch that was low and inside while the batter held the bat.,filler2,Did the batter hold the pipe? ,N
+
+F4I34939,Desmond held the football that was heavy and brown while Kevin took a fall.,filler2,Did Desmond hold the kitten? ,N
+
+F4I35940,Diana requested the painkiller as she began childbirth.,filler2,Did Diana request a hamburger? ,N
+
+F4I36941,Kate bought the vase that was gorgeous and delicate while the shopkeeper earned commission.,filler2,Did Kate buy the picture frame? ,N
+
+F4I37942,The judge addressed the jury that was rude and inattentive as the witness gave the testimony.,filler2,Did the judge address the class? ,N
+
+F4I38943,The blonde wore the bikini while she washed the car.,filler2,Did the blonde wash her hair? ,N
+
+F4I39944,The soldier went to war while the wife worried at home.,filler2,Did the wife worry at home? ,Y
+
+F4I40945,The postman delivered the package that was large and heavy while the neighbor watered the plants.,filler2,Did the neighbor deliver the package? ,N
+
+F4I41946,The construction worker eyed Karen as he poured the cement.,filler2,Did the construction worker weld a bolt? ,N
+
+F4I42947,The carpenter sanded the wood that was light and knotty as Marcia built the bench.,filler2,Did Marcia build the wagon? ,N
+
+F4I43948,The golden retriever buried the bone as he refilled the hole.,filler2,Did the golden retriever bury the toy? ,N
+
+F4I44949,The zookeeper held the snake that was strong and brown as the children touched it.,filler2,Did the children touch a bird? ,N
+
+F4I45950,The consumer contracted salmonella as she ate the hamburger.,filler2,Did the consumer eat the lemon? ,N
+
+F4I46951,The designer earned money while the miniskirt became popular.,filler2,Did the designer lose money? ,N
+
+F4I47952,The bowler whispered a prayer while he threw the ball.,filler2,Did the bowler use a racket? ,N
+
+F4I48953,The boys forgot the books that were heavy and thick as they left for school.,filler2,Did the boys bring their books? ,N
+
+E1I1954,The wise consumer understood the label was a very misleading one.,Ambiguous,Was the consumer easily tricked?,N
+E1I2955,The experienced boss emphasized the objective should not be abandoned yet.,Ambiguous,Should the goal be pursued further?,Y
+E1I3956,The popular novelist wrote the essay would change the voters' minds.,Ambiguous,Would the essay influence anyone?,Y
+E1I4957,The amateur musician learned the song couldn't be recorded for hours,Ambiguous,Could the song be recorded later?,Y
+E1I5958,The coast guard confirmed the drowning could not have been avoided.,Ambiguous,Could the sailor have been saved?,N
+E1I6959,The upset customer asserted the complaint should be taken very seriously.,Ambiguous,Was the customer happy with the service?,N
+E1I7960,The devoted caretaker maintained the garden was causing his chronic allergies.,Ambiguous,Were cats the cause of his allergies?,N
+E1I8961,The stuttering child repeated the threat was highly unnecessary and hurtful.,Ambiguous,Was the threat mean-spirited?,Y
+E2I1962,The two hunters heard that the birds had begun migrating in October.,Unambiguous,Were the birds migrating?,Y
+E2I2963,The local publisher printed that the quote had not been accurately reported.,Unambiguous,Could someone have been misquoted?,Y
+E2I3964,The distracted businessman forgot that the address was written in the e-mail.,Unambiguous,Was the address written on paper?,N
+E2I4965,The new mayor advocated that the strategy could be implemented next year.,Unambiguous,Does the mayor want to implement the strategy?,Y
+E2I5966,The French explorers discovered that the treasure had caused a vicious battle.,Unambiguous,Had the treasure caused a conflict?,Y
+E2I6967,The political group protested that the treaty had been broken many times.,Unambiguous,Had the treaty been followed?,N
+E2I7968,The basketball star accepted that the contract would have to be negotiated.,Unambiguous,Should the star sign right away?,N
+E2I8969,The angry residents warned that the kids had disturbed every single weekend.,Unambiguous,Were the residents pleased with the kids?,N
+E3I1970,The travel agent suggested the vacation would just have to wait.,Ambiguous,Was now a good time for a vacation?,N
+E3I2971,The new babysitter worried the parents would be several hours late.,Ambiguous,Did the babysitter worry the parents?,N
+E3I3972,The local detectives proved the conspiracy had been carefully covered up.,Ambiguous,Had the conspiracy been concealed?,Y
+E3I4973,The cab driver assumed the blame belonged to the other driver.,Ambiguous,Did the cab driver claim responsibility?,N
+E3I5974,The district attorney argued the point would be impossible to avoid.,Ambiguous,Would the point be easily forgotten?,N
+E3I6975,The famous justice decided the case should never have been tried.,Ambiguous,Was the case tried?,Y
+E3I7976,The injured woman suspected the teenager had hit her from behind.,Ambiguous,Did the woman suspect the teenager?,Y
+E3I8977,The weary traveler claimed the luggage had been stolen in Rome.,Ambiguous,Did the traveler's luggage disappear?,Y
+E4I1978,The naive child believed that the fable had been written for him.,Unambiguous,Was the child somewhat gullible?,Y
+E4I2979,The shrewd salesman figured that the prices would be going up soon.,Unambiguous,Were the prices going to rise?,Y
+E4I3980,The observant sleuth realized that the situation should be watched very closely.,Unambiguous,Was the detective careful and aware?,Y
+E4I4981,The account executive concluded that the speech had not gone very well,Unambiguous,Did the speech please the executive?,N
+E4I5982,The football fan inferred that the score was due to several injuries.,Unambiguous,Were the players unscathed?,N
+E4I6983,The friendly clerk indicated that the price would be halved next week.,Unambiguous,Was the price steady?,N
+E4I7984,The new receptionist admitted that the mistake should have been corrected sooner.,Unambiguous,Should the receptionist have waited?,N
+E4I8985,The famous researcher implied that the findings had been revealed too soon.,Unambiguous,Were the findings revealed too early?,Y
+E9I1986,The hero who destroyed the villain spent daylight hours in his lair.,,Did the hero spend the day in the city?,N
+E9I2987,The committee who met the applicant explained the reasoning for their decision.,,Did the committee neglect to give a reason?,N
+E9I3988,The expert who revered the source wrote a commentary on natural selection.,,Did the expert write a poem?,N
+E9I4989,The co-worker who intimidated the professional delayed his response to the question.,,Did the co-worker answer right away?,N
+E9I5990,The critic who acknowledged the writer discussed the strengths of the piece.,,Did the critic discuss the weakness?,N
+E9I6991,The bully who challenged the nerd began the quarrel with an insult.,,Did the bully start with a complement?,N
+E9I7992,The scientist who aided the technician assumed the blame for the error.,,Did the scientist blame someone else?,N
+E9I8993,The host who engaged the visitor described the route to the attractions.,,Did the host describe the attractions?,N
+E9I9994,The plumber who frustrated the janitor lost the key on the street.,,Did the plumber lose the key?,Y
+E9I10995,The hairdresser who hired the beautician transformed the salon for the better.,,Did the hairdresser improve the salon?,Y
+E9I11996,The lecturer who provoked the dean left the university in the summer.,,Did the lecturer leave during the summer?,Y
+E9I12997,The trumpeter who loved the drummer formed the band two years ago.,,Did the trumpeter start the band?,Y
+E9I13998,The intern who feared the boss disregarded the messages on her voicemail.,,Did the intern ignore her voicemail?,Y
+E9I14999,The roommate who annoyed the landlord slammed the door of the apartment.,,Did the roommate close the door loudly?,Y
+E9I151000,The player who avoided the coach entered the room at the gym.,,Did the player come into the room?,Y
+E9I161001,The mayor who called the advisor requested an update on the project.,,Did the mayor ask for new project details?,Y
+E10I11002,The librarian who the teacher angered misplaced the book from the depository. ,,Did the librarian keep track of the book?,N
+E10I21003,The pharmacist who the assistant helped placed the order for the drug.,,Did the pharmacist order a coupon book?,N
+E10I31004,The waitress who the bartender hugged dropped the tray on the floor.,,Did the waitress drop the tray on the table?,N
+E10I41005,The client who the retailer contacted offered a deal of the century.,,Did the client retract a deal?,N
+E10I51006,The celebrity who the athlete admired won the award at the ceremony.,,Did the celebrity suffer a defeat?,N
+E10I61007,The detective who the spy recognized crossed the street at the light.,,Did the detective cross at the sign?,N
+E10I71008,The journalist who the editor complimented revised the article for the newspaper.,,Did the journalist work for a magazine?,N
+E10I81009,The employee who the executive praised finished the project right on time.,,Did the employee finish late?,N
+E10I91010,The legislator who the senator visited falsified the documents for the trip.,,Did the legislator use fake documents?,Y
+E10I101011,The soldier who the enemy shot received a medal for the battle.,,Did the soldier receive an honor?,Y
+E10I111012,The officer who the murderer described told a lie about the past.,,Did the officer say something that wasn't true?,Y
+E10I121013,The reporter who the cameraman followed damaged the equipment during the trip.,,Did the reporter break equipment?,Y
+E10I131014,The understudy who the agent telephoned shared the news about the suicide.,,Did the understudy talk about the death?,Y
+E10I141015,The consultant who the programmer confronted broke the computer in a rage.,,Did the consultant get angry?,Y
+E10I151016,The supervisor who the owner deceived kept the money in the end.,,Did the supervisor hold onto the money?,Y
+E10I161017,The entrepreneur who the stockbroker hated sold shares after the merger.,,Did the entrepreneur get rid of his shares? ,Y
+F11I11018,The clerk at the records office clarified the confusing statement on the application.,Filler,Was the statement very straightforward?,N
+F11I21019,The handsome prince offered but his bride's family declined the fortune.,Filler,Would the prince remain a bachelor?,N
+F11I31020,The two friends wagered their allowance on who would get the highest test score.,Filler,Did the friends bet on a baseball game?,N
+F11I41021,The mysterious woman divulged her deepest and darkest secrets to the bus driver.,Filler,Was the woman very shy?,N
+F11I51022,The radio newscaster verified the short and exciting report before the broadcast.,Filler,Was the report true?,Y
+F11I61023,The bargain shopper saw the beautiful and expensive raincoat after the sale was over.,Filler,Was the shopper careless with cash?,N
+F11I71024,The exuberant team planned a huge and extravagant party for after the game.,Filler,Did the team feel good about things?,Y
+F11I81025,The science teacher verified the unexpected results because she found them implausible.,Filler,Did the results seem strange?,Y
+F11I91026,The temporary assistant saw the short and inappropriate memo while rummaging through the files.,Filler,Did the assistant notice the memo?,Y
+F11I101027,The injured man imagined the attack while in the emergency room.,Filler,Had the man been assaulted?,Y
+F11I111028,The worried mother determined the explanation for why her son had been avoiding her.,Filler,Was the mother concerned about her son?,Y
+F11I121029,The flight attendant clarified the instructions when the passengers asked questions.,Filler,Was the flight attendant helpful?,Y
+F11I131030,The church workers offered the kids a free bible and some coloring books.,Filler,Did the workers offer them food?,N
+F11I141031,The curious girl comprehended the answer but asked the question again.,Filler,Did the girl understand the first time?,Y
+F11I151032,The office staff raced but there was no clear winner.,Filler,Did someone come in first place?,N
+F11I161033,The teacher's assistant divulged the purpose of her colleague's absence.,Filler,Did the assistant know the purpose?,Y
+F11I171034,Many of the cheerleaders recalled the difficult and strenuous routine from last year's homecoming game.,Filler,Did the cheerleaders forget the routine?,N
+F11I181035,The attorneys for the family disputed the authorities' version of what transpired.,Filler,Were the events completely agreed upon?,N
+F11I191036,The wealthy investor regretted the bad and unfortunate decision once he realized the consequences.,Filler,Was the investor rich?,Y
+F11I201037,The models in the fashion show revealed their stylish tank tops.,Filler,Were the models wearing sweaters?,N
+F11I211038,The I.R.S. agent demanded the full amount the week following the audit.,Filler,Did the audit go well?,N
+F11I221039,The poodle recognized his owner's scent on the clothing that was discovered.,Filler,Did the dog have a keen sense of smell?,Y
+F11I231040,The waitress promised her regulars a free cup of coffee.,Filler,Would the regulars have eggs?,N
+F11I241041,The foreign students sat down but couldn't understand the lecture.,Filler,Were the students a bit confused?,Y
+F11I251042,The angry mob announced their demands but still refused to negotiate.,Filler,Did the mob want to compromise?,N
+F11I261043,The nervous teenager lied to the judge to avoid incriminating his friend.,Filler,Did the witness commit perjury?,Y
+F11I271044,The bored librarian painted her fingernails after shelving several books.,Filler,Was the librarian very busy?,N
+F11I281045,The interior decorator hammered away and hung the painting on the wall.,Filler,Did the decorator hang a poster?,N
+F11I291046,The new salesman insulted the stranger and she left the store.,Filler,Was the stranger satisfied?,N
+F11I301047,The soccer player kicked the ball through the goalie's hands.,Filler,Did the soccer player score?,Y
+F11I311048,The thoughtful daughter cared for her elderly mother.,Filler,Was the mother taken care of?,Y
+F11I321049,The new homeowner slept in the room next to the garden.,Filler,Did the homeowner sleep near plants and shrubs?,Y
+E1I11050,The two hunters heard the birds had begun migrating in October.,Ambiguous,Were the birds migrating?,Y
+E1I21051,The local publisher printed the quote had not been accurately reported.,Ambiguous,Could someone have been misquoted?,Y
+E1I31052,The distracted businessman forgot the address was written in the e-mail.,Ambiguous,Was the address written on paper?,N
+E1I41053,The new mayor advocated the strategy could be implemented next year.,Ambiguous,Does the mayor want to implement the strategy?,Y
+E1I51054,The French explorers discovered the treasure had caused a vicious battle.,Ambiguous,Had the treasure caused a conflict?,Y
+E1I61055,The political group protested the treaty had been broken many times.,Ambiguous,Had the treaty been followed?,N
+E1I71056,The basketball star accepted the contract would have to be negotiated.,Ambiguous,Should the star sign right away?,N
+E1I81057,The angry residents warned the kids had disturbed every single weekend.,Ambiguous,Were the residents pleased with the kids?,N
+E2I11058,The wise consumer understood that the label was a very misleading one.,Unambiguous,Was the consumer easily tricked?,N
+E2I21059,The experienced boss emphasized that the objective should not be abandoned yet.,Unambiguous,Should the goal be pursued further?,Y
+E2I31060,The popular novelist wrote that the essay would change the voters' minds.,Unambiguous,Would the essay influence anyone?,Y
+E2I41061,The amateur musician learned that the song couldn't be recorded for hours,Unambiguous,Could the song be recorded later?,Y
+E2I51062,The coast guard confirmed that the drowning could not have been avoided.,Unambiguous,Could the sailor have been saved?,N
+E2I61063,The upset customer asserted that the complaint should be taken very seriously.,Unambiguous,Was the customer happy with the service?,N
+E2I71064,The devoted caretaker maintained that the garden was causing his chronic allergies.,Unambiguous,Were cats the cause of his allergies?,N
+E2I81065,The stuttering child repeated that the threat was highly unnecessary and hurtful.,Unambiguous,Was the threat mean-spirited?,Y
+E3I11066,The naive child believed the fable had been written for him.,Ambiguous,Was the child somewhat gullible?,Y
+E3I21067,The shrewd salesman figured the prices would be going up soon.,Ambiguous,Were the prices going to rise?,Y
+E3I31068,The observant sleuth realized the situation should be watched very closely.,Ambiguous,Was the detective careful and aware?,Y
+E3I41069,The account executive concluded the speech had not gone very well.,Ambiguous,Did the speech please the executive?,N
+E3I51070,The football fan inferred the score was due to several injuries.,Ambiguous,Were the players unscathed?,N
+E3I61071,The friendly clerk indicated the price would be halved next week.,Ambiguous,Was the price steady?,N
+E3I71072,The new receptionist admitted the mistake should have been corrected sooner.,Ambiguous,Should the receptionist have waited?,N
+E3I81073,The famous researcher implied the findings had been revealed too soon.,Ambiguous,Were the findings revealed too early?,Y
+E4I11074,The travel agent suggested that the vacation would just have to wait.,Unambiguous,Was now a good time for a vacation?,N
+E4I21075,The new babysitter worried that the parents would be several hours late.,Unambiguous,Did the babysitter worry the parents?,N
+E4I31076,The local detectives proved that the conspiracy had been carefully covered up.,Unambiguous,Had the conspiracy been concealed?,Y
+E4I41077,The cab driver assumed that the blame belonged to the other driver.,Unambiguous,Did the cab driver claim responsibility?,N
+E4I51078,The district attorney argued that the point would be impossible to avoid.,Unambiguous,Would the point be easily forgotten?,N
+E4I61079,The famous justice decided that the case should never have been tried.,Unambiguous,Was the case tried?,Y
+E4I71080,The injured woman suspected that the teenager had hit her from behind.,Unambiguous,Did the woman suspect the teenager?,Y
+E4I81081,The weary traveler claimed that the luggage had been stolen in Rome.,Unambiguous,Did the traveler's luggage disappear?,Y
+E9I11082,The librarian who angered the teacher misplaced the book from the depository.,,Did the librarian keep track of the book?,N
+E9I21083,The pharmacist who helped the assistant placed the order for the drug.,,Did the pharmacist order a coupon book?,N
+E9I31084,The waitress who hugged the bartender dropped the tray on the floor.,,Did the waitress drop the tray on the table?,N
+E9I41085,The client who contacted the retailer offered a deal of the century.,,Did the client retract a deal?,N
+E9I51086,The celebrity who admired the athlete won the award at the ceremony.,,Did the celebrity suffer a defeat?,N
+E9I61087,The detective who recognized the spy crossed the street at the light.,,Did the detective cross at the sign?,N
+E9I71088,The journalist who complimented the editor revised the article for the newspaper.,,Did the journalist work for a magazine?,N
+E9I81089,The employee who praised the executive finished the project right on time.,,Did the employee finish late?,N
+E9I91090,The legislator who visited the senator falsified the documents for the trip.,,Did the legislator use fake documents?,Y
+E9I101091,The soldier who shot the enemy received a medal for the battle.,,Did the soldier receive an honor?,Y
+E9I111092,The officer who described the murderer told a lie about the past.,,Did the officer say something that wasn't true?,Y
+E9I121093,The reporter who followed the cameraman damaged the equipment during the trip.,,Did the reporter break equipment?,Y
+E9I131094,The understudy who telephoned the agent shared the news about the suicide.,,Did the understudy talk about the death?,Y
+E9I141095,The consultant who confronted the programmer broke the computer in a rage.,,Did the consultant get angry?,Y
+E9I151096,The supervisor who deceived the owner kept the money in the end.,,Did the supervisor hold onto the money?,Y
+E9I161097,The entrepreneur who hated the stockbroker sold shares after the merger.,,Did the entrepreneur sell off shares? ,Y
+E10I11098,The hero who the villain destroyed spent daylight hours in his lair.,,Did the hero spend the day in the city?,N
+E10I21099,The committee who the applicant met explained the reasoning for their decision.,,Did the committee neglect to give a reason?,N
+E10I31100,The expert who the source revered wrote a commentary on natural selection.,,Did the expert write a poem?,N
+E10I41101,The co-worker who the professional intimidated delayed his response to the question.,,Did the co-worker answer right away?,N
+E10I51102,The critic who the writer acknowledged discussed the strengths of the piece.,,Did the critic discuss the weakness?,N
+E10I61103,The bully who the nerd challenged began the quarrel with an insult.,,Did the bully start with a complement?,N
+E10I71104,The scientist who the technician aided assumed the blame for the error.,,Did the scientist blame someone else?,N
+E10I81105,The host who the visitor engaged described the route to the attractions.,,Did the host describe the attractions?,N
+E10I91106,The plumber who the janitor frustrated lost the key on the street.,,Did the plumber lose the key?,Y
+E10I101107,The hairdresser who the beautician hired transformed the salon for the better. ,,Did the hairdresser improve the salon?,Y
+E10I111108,The lecturer who the dean provoked left the university in the summer.,,Did the lecturer leave during the summer?,Y
+E10I121109,The trumpeter who the drummer loved formed the band two years ago.,,Did the trumpeter start the band?,Y
+E10I131110,The intern who the boss feared disregarded the messages on her voicemail.,,Did the intern ignore her voicemail?,Y
+E10I141111,The roommate who the landlord annoyed slammed the door of the apartment.,,Did the roommate close the door loudly?,Y
+E10I151112,The player who the coach avoided entered the room at the gym.,,Did the player come into the room?,Y
+E10I161113,The mayor who the advisor called requested an update on the project.,,Did the mayor ask for new project details?,Y
+F11I11114,The clerk at the records office clarified the confusing statement on the application.,Filler,Was the statement very straightforward?,N
+F11I21115,The handsome prince offered but his bride's family declined the fortune.,Filler,Would the prince remain a bachelor?,N
+F11I31116,The two friends wagered their allowance on who would get the highest test score.,Filler,Did the friends bet on a baseball game?,N
+F11I41117,The mysterious woman divulged her deepest and darkest secrets to the bus driver.,Filler,Was the woman very shy?,N
+F11I51118,The radio newscaster verified the short and exciting report before the broadcast.,Filler,Was the report true?,Y
+F11I61119,The bargain shopper saw the beautiful and expensive raincoat after the sale was over.,Filler,Was the shopper careless with cash?,N
+F11I71120,The exuberant team planned a huge and extravagant party for after the game.,Filler,Did the team feel good about things?,Y
+F11I81121,The science teacher verified the unexpected results because she found them implausible.,Filler,Did the results seem strange?,Y
+F11I91122,The temporary assistant saw the short and inappropriate memo while rummaging through the files.,Filler,Did the assistant notice the memo?,Y
+F11I101123,The injured man imagined the attack while in the emergency room.,Filler,Had the man been assaulted?,Y
+F11I111124,The worried mother determined the explanation for why her son had been avoiding her.,Filler,Was the mother concerned about her son?,Y
+F11I121125,The flight attendant clarified the instructions when the passengers asked questions.,Filler,Was the flight attendant helpful?,Y
+F11I131126,The church workers offered the kids a free bible and some coloring books.,Filler,Did the workers offer them food?,N
+F11I141127,The curious girl comprehended the answer but asked the question again.,Filler,Did the girl understand the first time?,Y
+F11I151128,The office staff raced but there was no clear winner.,Filler,Did someone come in first place?,N
+F11I161129,The teacher's assistant divulged the purpose of her colleague's absence.,Filler,Did the assistant know the purpose?,Y
+F11I171130,Many of the cheerleaders recalled the difficult and strenuous routine from last year's homecoming game.,Filler,Did the cheerleaders forget the routine?,N
+F11I181131,The attorneys for the family disputed the authorities' version of what transpired.,Filler,Were the events completely agreed upon?,N
+F11I191132,The wealthy investor regretted the bad and unfortunate decision once he realized the consequences.,Filler,Was the investor rich?,Y
+F11I201133,The models in the fashion show revealed their stylish tank tops.,Filler,Were the models wearing sweaters?,N
+F11I211134,The I.R.S. agent demanded the full amount the week following the audit.,Filler,Did the audit go well?,N
+F11I221135,The poodle recognized his owner's scent on the clothing that was discovered.,Filler,Did the dog have a keen sense of smell?,Y
+F11I231136,The waitress promised her regulars a free cup of coffee.,Filler,Would the regulars have eggs?,N
+F11I241137,The foreign students sat down but couldn't understand the lecture.,Filler,Were the students a bit confused?,Y
+F11I251138,The angry mob announced their demands but still refused to negotiate.,Filler,Did the mob want to compromise?,N
+F11I261139,The nervous teenager lied to the judge to avoid incriminating his friend.,Filler,Did the witness commit perjury?,Y
+F11I271140,The bored librarian painted her fingernails after shelving several books.,Filler,Was the librarian very busy?,N
+F11I281141,The interior decorator hammered away and hung the painting on the wall.,Filler,Did the decorator hang a poster?,N
+F11I291142,The new salesman insulted the stranger and she left the store.,Filler,Was the stranger satisfied?,N
+F11I301143,The soccer player kicked the ball through the goalie's hands.,Filler,Did the soccer player score?,Y
+F11I311144,The thoughtful daughter cared for her elderly mother.,Filler,Was the mother taken care of?,Y
+F11I321145,The new homeowner slept in the room next to the garden.,Filler,Did the homeowner sleep near plants and shrubs?,Y
+E1I11146,While Sally bathed the calf that was stubborn and restless head-butted the barn wall.,RAT- ambiguous,Did Sally bathe?,Y
+
+E1I21147,As the aid groomed the patient that was confused and forgetful wandered the hospital.,RAT- ambiguous,Did the aid groom herself?,Y
+
+E1I31148,While the soldier dried off the gun that was antique and rusty fired clouds of smoke.,RAT- ambiguous,Did the soldier dry himself off?,Y
+
+E1I41149,While the outfielder scratched the tree that was supple and young waved in the breeze.,RAT- ambiguous,Did the outfielder scratch himself?  ,Y
+
+E1I51150,As the nun settled down the convent that was pious and devoted welcomed the Pope.,RAT- ambiguous,Did the nun settle down?,Y
+
+E1I61151,While Theresa undressed the girl who was wet and embarrassed stood in the corner.,RAT- ambiguous,Did Theresa undress herself?,Y
+
+E1I71152,As Neville woke up the lady that was elegant and wealthy snorted in disapproval.,RAT- ambiguous,Did Neville wake up?,Y
+
+E1I81153,While the guest hid the present that was extravagant and glittering sat on the table.,RAT- ambiguous,Did the guest hide?,Y
+
+E1I91154,As the butler dressed the salad that was fresh and green was prepared for dinner.,RAT- ambiguous,Did the butler dress himself?,Y
+
+E1I101155,While the handyman washed the car that was red and flashy drove down the road.,RAT- ambiguous,Did the handiman wash himself?,Y
+
+E1I111156,As Marcus shaved the sheep that was fluffy and woolly bleated in its pen.,RAT- ambiguous,Did Marcus shave?,Y
+
+E1I121157,As the team calmed down the coach that was stern and formidable bought a victory lunch.,RAT- ambiguous,Did the team calm down?,Y
+
+E2I11158,The deck that was grimy and dark creaked eerily while the pool boy showered.,RAT- unambiguous,Did the pool boy take a shower?,Y
+
+E2I21159,The paper that was pink and flowery began to peel as Angela stripped.,RAT- unambiguous,Did Angela strip?,Y
+
+E2I31160,The goods that were conspicuous and grand drew attention from pedestrians while the thief covered up.,RAT- unambiguous,Did the thief cover himself up?,Y
+
+E2I41161,The co-anchor that was chatty and likable read the prompt as the newscaster put make-up on.,RAT- unambiguous,Did the newscaster put make-up on?,Y
+
+E2I51162,The knot that was aching and sore throbbed in her thigh while Cora worked out.,RAT- unambiguous,Did Cora work out?,Y
+
+E2I61163,The badge that was battered and clunky broke in half as the agent lay down.,RAT- unambiguous,Did the agent lie down?  ,Y
+
+E2I71164,The drill that was repetitive and exhausting stopped hurting the recruits as the sergeant changed.,RAT- unambiguous,Did the sergeant change?,Y
+
+E2I81165,The assistant that was efficient and knowledgeable packed boxes while the executive transferred.,RAT- unambiguous,Did the executive transfer?,Y
+
+E2I91166,The greens that were nutritious and plentiful grew under heat lamps while the chef soaked.,RAT- unambiguous,Did the chef soak himself?,Y
+
+E2I101167,The champion that was muscular and agitated punched his opponent as the coach disrobed.,RAT- unambiguous,Did the coach disrobe?,Y
+
+E2I111168,The witness that was nervous and fidgety started to hyperventilate while the lawyer prepared.,RAT- unambiguous,Did the lawyer prepare himself?,Y
+
+E2I121169,The treasure that was valuable and lucrative gained interest as the miser relocated.,RAT- unambiguous,Did the miser relocate?,Y
+
+F3I11170,As Mark packed the suitcase Neil called the travel agent.,filler1,Did Neil pack the suitcase? ,N
+
+F3I21171,While the ambassador toured the country the bomb that was large and disastrous exploded in the capital.,filler1,Did the ambassador tour a castle? ,N
+
+F3I31172,As the police chased the prisoner they crashed their car.,filler1,Did the prisoner crash his car? ,N
+
+F3I41173,While the cashier bagged the groceries the customer that was flustered and rushing dropped the coupons.,filler1,Did the cashier drop the bag? ,N
+
+F3I51174,As the repairman patched the roof that was leaky and slippery he fell on the tiles.,filler1,Did the repairman fix the floor? ,N
+
+F3I61175,While the lawyer argued the case the jury that was arrogant and disrespectful slept in the courtroom.,filler1,Did the jury pay close attention? ,N
+
+F3I71176,As the grandma recited the story the son read in bed.,filler1,Did the grandma sleep in bed? ,N
+
+F3I81177,While Janis watched the fish she cleaned the tank.,filler1,Did Janis watch the cat? ,N
+
+F3I91178,As Michael stirred the filling the crust that was golden and delicious baked in the oven.,filler1,Did the filling bake in the oven? ,N
+
+F3I101179,While Alexander tasted the wine the butler answered the door.,filler1,Did the butler taste the wine? ,N
+
+F3I111180,As the researcher compiled the data he created graphs.,filler1,Did a lab assistant create the graphs? ,N
+
+F3I121181,While the father prepared the burgers he covered them with pepper.,filler1,Did the father cover the burgers with mustard? ,N
+
+F3I131182,As Christy recited the monologue the sister that was bored and sleepy left the room.,filler1,Did Christ recite the monologue? ,Y
+
+F3I141183,While Jennifer held the cigar that was aged and expensive she told bad jokes.,filler1,Did Jennifer tell bad jokes? ,Y
+
+F3I151184,As the realtor sold the house that was large and brick she celebrated with her colleagues.,filler1,Did the realtor sell the house? ,Y
+
+F3I161185,While the mother woke the son that was lazy and irresponsible she realized he was late for work.,filler1,Did the mother wake the son? ,Y
+
+F3I171186,As the grandpa picked the raspberries that were large and ripe he saved them for the granddaughter.,filler1,Did the grandpa pick the raspberries? ,Y
+
+F3I181187,While the man reversed the car he listened to the radio.,filler1,Did the man reverse the car? ,Y
+
+F3I191188,As the cat chased the mouse that was small and grey it slid on the linoleum.,filler1,Did the cat chase the mouse? ,Y
+
+F3I201189,While Richard dried the fruit that was ripe and delicious he bagged it for trail mix.,filler1,Did Richard dry the fruit? ,Y
+
+F3I211190,As the waiter lit the candle that was tall and thin he took the couple's order.,filler1,Did the waiter light the candle? ,Y
+
+F3I221191,While the kids teased the friend they watched the movie.,filler1,Did the kids watch the movie? ,Y
+
+F3I231192,As the golfer swung the club the caddy pulled the cart.,filler1,Did the caddy pull the cart? ,Y
+
+F3I241193,As the artist demonstrated the technique the painting that was exquisite and delicate fell off the easel.,filler1,Did the paiting fall off the easel? ,Y
+
+F3I251194,While the woman jumped rope she sprained her ankle.,filler1,Did the woman jump rope? ,Y
+
+F3I261195,While the archer aimed the bow the bird hid in the tree.,filler1,Did the archer aim the bow? ,Y
+
+F3I271196,While the goalie smoothed the ice that was rough and melting he fell on the center line.,filler1,Did the goalie maitain his balance? ,N
+
+F3I281197,As NASA launched the shuttle they taunted the Russians.,filler1,Did NASA reconcile with the Russians? ,N
+
+F3I291198,As the chef sampled the sauce she boiled the noodles.,filler1,Did the chef make pastries? ,N
+
+F3I301199,As the skier removed the skies he collapsed in the snow.,filler1,Did the skier keep his skies on? ,N
+
+F3I311200,As the maid tidied the house she made the bed.,filler1,Did the maid vacuum the floor? ,N
+
+F3I321201,As the contestant spun the wheel that was large and colorful she clapped her hands.,filler1,Did the contestant stay quiet? ,N
+
+F3I331202,While the secretary made the photocopy that was brief and important she broke the Xerox machine.,filler1,Did the secretar send a fax? ,N
+
+F3I341203,As the campers built the fire they gathered more wood.,filler1,Did the campers douse the fire? ,N
+
+F3I351204,As the biologist observed the specimen the patient that was feverish and dying screamed in pain.,filler1,Did the patiet feel better? ,N
+
+F3I361205,While the actor memorized the lines he walked his dog.,filler1,Did the actor walk aloe? ,N
+
+F3I371206,While the ghost rattled the chains that were metal and heavy it woke the tired child.,filler1,Did the child rattle chains? ,N
+
+F3I381207,As the salesman laced the shoe that was small and narrow he slid it on the customer's foot.,filler1,Did the customer wear a large and wide shoe? ,N
+
+F3I391208,While the doctor injected the medicine that was green and bubbly he held the patient.,filler1,Did the doctor give the patient a pill? ,N
+
+F3I401209,While the student used the clarinet the brother covered his ears.,filler1,Did the brother listen attetively? ,N
+
+F3I411210,While the choir sang the hymn the child squirmed in the pew.,filler1,Did the child sing a hymn? ,N
+
+F3I421211,While the minister married the couple he wore the robe.,filler1,Did the minister perform funeral services? ,N
+
+F4I11212,The poodle sniffed the food as he scratched his ear.,filler1,Did the poodle sniff the food?,Y
+
+F4I21213,Mabel fixed the socks while she watched the TV.,filler2,Did Mabel watch the fire? ,N
+
+F4I31214,Joseph freed the bird that was red and yellow as the zookeeper watched in horror.,filler2,Did Joseph free the lion? ,N
+
+F4I41215,The mother served the broccoli while the kids banged the table.,filler2,Did the kids bang the gong? ,N
+
+F4I51216,The tornado destroyed the city hall that was modern and spectacular as it visited the city.,filler2,Did the tornado destroy the auditorium? ,N
+
+F4I61217,The butterfly fluttered her wings while she laid the eggs.,filler2,Did the butterfly flutter her wings? ,Y
+
+F4I71218,Fido gnawed the milk bone that was small and tasty as Dave fed the cat.,filler2,Did Dave feed the cat? ,Y
+
+F4I81219,The camper stirred the beans that were brown and scrumptious while the fire warmed the pot.,filler2,Did the fire warm the house? ,N
+
+F4I91220,The mistress applied lipstick as she rode the bike.,filler2,Did the mistress ride the bike? ,Y
+
+F4I101221,The gymnast hurt her ankle that was twisted and swollen while she completed the vault.,filler2,Did the gymnast complete the vault? ,Y
+
+F4I111222,The professor scolded the student that was conscientious and reliable as they bumped in the hallway.,filler2,Did the professor scold the senator? ,N
+
+F4I121223,The grandma braided the pigtails that were thick and blonde while she groomed the girl.,filler2,Did the grandma braid the pigtails? ,Y
+
+F4I131224,Andrew observed the house that was dark and haunted as the mother baked the cookies.,filler2,Did the mother bake the cookies? ,Y
+
+F4I141225,The exterminator entered the school while the cockroaches scurried.,filler2,Did the exterminator enter the restaurant? ,N
+
+F4I151226,Gary lost the data that was rare and critical as he reformatted his hard drive.,filler2,Did Gary reformat his hard drive? ,Y
+
+F4I161227,Yasmeen memorized the formula that was long and complicated while the instructor erased the board.,filler2,Did the instructor erase the hard drive? ,N
+
+F4I171228,The cowboy branded the cow as he warmed the instrument over the fire.,filler2,Did the cowboy brand the goat? ,N
+
+F4I181229,The mother comforted the toddler that was chubby and scared while the clown handed him a balloon.,filler2,Did the mother comfort the toddler? ,Y
+
+F4I191230,The fireman rescued the kitten as the house burned to the ground.,filler2,Did the fireman rescue the kitten? ,Y
+
+F4I201231,The referee blew the whistle while he noticed the foul.,filler2,Did the referee notice the foul? ,Y
+
+F4I211232,The hostess folded the bedspread that was pink and musty as the guest entered the bedroom.,filler2,Did the hostess fold the bedspread? ,Y
+
+F4I221233,The kids mixed the ingredients while Tim kneaded the dough.,filler2,Did Tim knead the dough? ,Y
+
+F4I231234,The patient threatened suicide as the psychiatrist administered drugs.,filler2,Did the psychiatrist administer drugs? ,Y
+
+F4I241235,The guitarist plucked the guitar that was old and flat while the lovers entered the room.,filler2,Did the guitarist pluck the guitar? ,Y
+
+F4I251236,The toddler wore the pajamas as he went to bed.,filler2,Did the toddler go to bed? ,Y
+
+F4I261237,Mickey watched the parade while the drummer dropped his instrument.,filler2,Did the drummer drop his pants? ,N
+
+F4I271238,The woman cashed the check that was valuable and important as she stopped at the bank.,filler2,Did the woman cash the check? ,Y
+
+F4I281239,The archaeologist dug the pit that was deep and muddy as the supervisor broke the artifact.,filler2,Did the supervisor break the computer? ,N
+
+F4I291240,The wife washed the dishes as the husband did the laundry.,filler2,Did the wife wash the windows? ,N
+
+F4I301241,The class left the building that was large and brick as it formed a line.,filler2,Did the class leave a restaurant? ,N
+
+F4I311242,The bat bit James as he screamed.,filler2,Did the bat bite Kelly? ,N
+
+F4I321243,The truck driver wiped his brow while he removed his shirt.,filler2,Did the truck driver remove his watch? ,N
+
+F4I331244,The pitcher threw the pitch that was low and inside while the batter held the bat.,filler2,Did the batter hold the pipe? ,N
+
+F4I341245,Desmond held the football that was heavy and brown while Kevin took a fall.,filler2,Did Desmond hold the kitten? ,N
+
+F4I351246,Diana requested the painkiller as she began childbirth.,filler2,Did Diana request a hamburger? ,N
+
+F4I361247,Kate bought the vase that was gorgeous and delicate while the shopkeeper earned commission.,filler2,Did Kate buy the picture frame? ,N
+
+F4I371248,The judge addressed the jury that was rude and inattentive as the witness gave the testimony.,filler2,Did the judge address the class? ,N
+
+F4I381249,The blonde wore the bikini while she washed the car.,filler2,Did the blonde wash her hair? ,N
+
+F4I391250,The soldier went to war while the wife worried at home.,filler2,Did the wife worry at home? ,Y
+
+F4I401251,The postman delivered the package that was large and heavy while the neighbor watered the plants.,filler2,Did the neighbor deliver the package? ,N
+
+F4I411252,The construction worker eyed Karen as he poured the cement.,filler2,Did the construction worker weld a bolt? ,N
+
+F4I421253,The carpenter sanded the wood that was light and knotty as Marcia built the bench.,filler2,Did Marcia build the wagon? ,N
+
+F4I431254,The golden retriever buried the bone as he refilled the hole.,filler2,Did the golden retriever bury the toy? ,N
+
+F4I441255,The zookeeper held the snake that was strong and brown as the children touched it.,filler2,Did the children touch a bird? ,N
+
+F4I451256,The consumer contracted salmonella as she ate the hamburger.,filler2,Did the consumer eat the lemon? ,N
+
+F4I461257,The designer earned money while the miniskirt became popular.,filler2,Did the designer lose money? ,N
+
+F4I471258,The bowler whispered a prayer while he threw the ball.,filler2,Did the bowler use a racket? ,N
+
+F4I481259,The boys forgot the books that were heavy and thick as they left for school.,filler2,Did the boys bring their books? ,N
+

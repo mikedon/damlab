@@ -1,0 +1,72 @@
+<levels>
+  <level num="1">
+    <nextBlockDelay>2000</nextBlockDelay>
+    <maxBlockValue>9</maxBlockValue>
+    <minBlockValue>1</minBlockValue>
+    <numBlockToClick>2</numBlockToClick>
+    <levelTime>45000</levelTime>
+  </level>
+  <level num="2">
+    <nextBlockDelay>1800</nextBlockDelay>
+    <maxBlockValue>9</maxBlockValue>
+    <minBlockValue>1</minBlockValue>
+    <numBlockToClick>2</numBlockToClick>
+    <levelTime>45000</levelTime>
+  </level>
+  <level num="3">
+    <nextBlockDelay>1600</nextBlockDelay>
+    <maxBlockValue>9</maxBlockValue>
+    <minBlockValue>1</minBlockValue>
+    <numBlockToClick>2</numBlockToClick>
+    <levelTime>45000</levelTime>
+  </level>
+  <level num="4">
+    <nextBlockDelay>1400</nextBlockDelay>
+    <maxBlockValue>9</maxBlockValue>
+    <minBlockValue>1</minBlockValue>
+    <numBlockToClick>2</numBlockToClick>
+    <levelTime>45000</levelTime>
+  </level>
+  <level num="5">
+    <nextBlockDelay>1200</nextBlockDelay>
+    <maxBlockValue>9</maxBlockValue>
+    <minBlockValue>1</minBlockValue>
+    <numBlockToClick>2</numBlockToClick>
+    <levelTime>45000</levelTime>
+  </level>
+   <level num="6">
+    <nextBlockDelay>2000</nextBlockDelay>
+    <maxBlockValue>9</maxBlockValue>
+    <minBlockValue>1</minBlockValue>
+    <numBlockToClick>3</numBlockToClick>
+    <levelTime>45000</levelTime>
+  </level>
+    <level num="7">
+    <nextBlockDelay>1800</nextBlockDelay>
+    <maxBlockValue>9</maxBlockValue>
+    <minBlockValue>1</minBlockValue>
+    <numBlockToClick>3</numBlockToClick>
+    <levelTime>45000</levelTime>
+  </level>
+    <level num="8">
+    <nextBlockDelay>1600</nextBlockDelay>
+    <maxBlockValue>9</maxBlockValue>
+    <minBlockValue>1</minBlockValue>
+    <numBlockToClick>3</numBlockToClick>
+    <levelTime>45000</levelTime>
+  </level>
+    <level num="9">
+    <nextBlockDelay>1400</nextBlockDelay>
+    <maxBlockValue>9</maxBlockValue>
+    <minBlockValue>1</minBlockValue>
+    <numBlockToClick>3</numBlockToClick>
+    <levelTime>45000</levelTime>
+  </level>
+    <level num="10">
+    <nextBlockDelay>1200</nextBlockDelay>
+    <maxBlockValue>9</maxBlockValue>
+    <minBlockValue>1</minBlockValue>
+    <numBlockToClick>3</numBlockToClick>
+    <levelTime>45000</levelTime>
+  </level>
+</levels>

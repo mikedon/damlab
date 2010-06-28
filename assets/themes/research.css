@@ -1,0 +1,107 @@
+.panel_body{
+	border: solid 2px black;
+  border-left: none;
+  border-right: none;
+  text-align: center;
+  padding: 10px;
+}
+
+.panel_head{
+        padding: 5px 0px 5px 40px;
+        background-repeat: no-repeat;
+        background-position: 15px 50%;
+        background-image: url(../images/bullet_toggle_plus.png);
+       margin-top: 10px;
+       width: 300px;
+       /*color: #71a7fe;*/
+       color: white;
+        text-align: left;
+	font-size:large;
+	cursor: pointer;
+	background-color: #232323;
+	border: outset 2px white;
+}
+#prevExperiments td{
+       border-right: 1px solid #B8B8B8;
+       border-left: 1px solid #B8b8b8;
+       border-bottom: 1px solid #b8b8b8;
+       text-align:center;
+       font-size:small;
+}
+#prevExperiments th{
+       font-size:small;
+       background-color: #74a9ff;
+}
+.parameters th{
+       font-size:small;
+       background-color: #74a9ff;
+}
+.parameters td{
+      border-right: 1px solid #B8B8B8;
+       border-left: 1px solid #B8b8b8;
+       border-bottom: 1px solid #b8b8b8;
+       text-align:center;
+       font-size:small;  
+}
+#download td{
+      border-right: 1px solid #B8B8B8;
+       border-left: 1px solid #B8b8b8;
+       border-bottom: 1px solid #b8b8b8;
+       text-align:center;
+       font-size:small;  
+       
+}
+#download th{
+       font-size:small;
+       background-color: #74a9ff;
+}
+.researchTable td{
+	border-right: 1px solid #B8B8B8;
+       border-left: 1px solid #B8b8b8;
+       border-bottom: 1px solid #b8b8b8;
+       text-align:center;
+       font-size:small;  
+       
+}
+.researchTable th{
+	font-size:small;
+       background-color: #74a9ff;
+}
+.exp_information th{
+  font-size: small;
+  background-color: #74a9ff;
+}
+.exp_information td{
+           border-right: 1px solid #B8B8B8;
+       border-left: 1px solid #B8b8b8;
+       border-bottom: 1px solid #b8b8b8;
+       text-align:center;
+       font-size:small;  
+}
+#content ul{
+	list-style-type: none;
+	text-align:left;
+}
+#password ul li{
+	display: inline;
+}
+#password_popup ul li{
+       display: inline;
+}
+
+.ui-slider{
+       margin-right: 8px;
+       margin-bottom: 35px;
+}
+.boxy-content{
+	height: 500px;
+	overflow: auto;
+}
+span.task_ordering_title{
+	font-size: 1em.
+}
+span.task_ordering_desc{
+	margin-left: 20px;
+	color: #515151;
+	font-size: .8em;
+}

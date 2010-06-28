@@ -1,0 +1,115 @@
+Script ID,Item,Item type,Item question,Question Response
+E1I1,While the pool boy showered the deck that was grimy and dark creaked eerily.,RAT- ambiguous,Did the pool boy take a shower?,Y
+E1I2,As Angela stripped the paper that was pink and flowery began to peel.,RAT- ambiguous,Did Angela strip?,Y
+E1I3,While the thief covered up the goods that were conspicuous and grand drew attention from pedestrians.,RAT- ambiguous,Did the thief cover himself up?,Y
+E1I4,As newscaster put make-up on the co-anchor that was chatty and likable read the prompt.,RAT- ambiguous,Did the newscaster put make-up on?,Y
+E1I5,While Cora worked out the knot that was aching and sore throbbed in her thigh.,RAT- ambiguous,Did Cora work out?,Y
+E1I6,As the agent lay down the badge that was battered and clunky broke in half.,RAT- ambiguous,Did the agent lie down?  ,Y
+E1I7,As the sergeant changed the drill that was repetitive and exhausting stopped hurting the recruits.,RAT- ambiguous,Did the sergeant change?,Y
+E1I8,While the executive transferred the assistant that was efficient and knowledgeable packed boxes.,RAT- ambiguous,Did the executive transfer?,Y
+E1I9,While the chef soaked the greens that were nutritious and plentiful grew under heat lamps.,RAT- ambiguous,Did the chef soak himself?,Y
+E1I10,As the coach disrobed the champion that was muscular and agitated punched his opponent.,RAT- ambiguous,Did the coach disrobe?,Y
+E1I11,While the lawyer prepared the witness that was nervous and fidgety started to hyperventilate.,RAT- ambiguous,Did the lawyer prepare himself?,Y
+E1I12,As the miser relocated the treasure that was valuable and lucrative gained interest.,RAT- ambiguous,Did the miser relocate?,Y
+E2I1,The calf that was stubborn and restless head-butted the barn wall while Sally bathed.,RAT- unambiguous,Did Sally bathe?,Y
+E2I2,The patient that was confused and forgetful wandered the hospital as the aid groomed.,RAT- unambiguous,Did the aid groom herself?,Y
+E2I3,The gun that was antique and rusty fired clouds of smoke while the soldier dried off.,RAT- unambiguous,Did the soldier dry himself off?,Y
+E2I4,The tree that was supple and young waved in the breeze while the outfielder scratched.,RAT- unambiguous,Did the outfielder scratch himself?  ,Y
+E2I5,The convent that was pious and devoted welcomed the Pope as the nun settled down.,RAT- unambiguous,Did the nun settle down?,Y
+E2I6,The girl who was wet and embarrassed stood in the corner while Theresa undressed.,RAT- unambiguous,Did Theresa undress herself?,Y
+E2I7,The lady that was elegant and wealthy snorted in disapproval as Neville woke up.,RAT- unambiguous,Did Neville wake up?,Y
+E2I8,The present that was extravagant and glittering sat on the table while the guest hid.,RAT- unambiguous,Did the guest hide?,Y
+E2I9,The salad that was fresh and green was prepared for dinner as the butler dressed.,RAT- unambiguous,Did the butler dress himself?,Y
+E2I10,The car that was red and flashy drove down the road while the handyman washed.,RAT- unambiguous,Did the handiman wash himself?,Y
+E2I11,The sheep that was fluffy and woolly bleated in its pen as Marcus shaved.,RAT- unambiguous,Did Marcus shave?,Y
+E2I12,The coach that was stern and formidable bought a victory lunch as the team calmed down.,RAT- unambiguous,Did the team calm down?,Y
+F3I1,As Mark packed the suitcase Neil called the travel agent.,filler1,Did Neil pack the suitcase? ,N
+F3I2,While the ambassador toured the country the bomb that was large and disastrous exploded in the capital.,filler1,Did the ambassador tour a castle? ,N
+F3I3,As the police chased the prisoner they crashed their car.,filler1,Did the prisoner crash his car? ,N
+F3I4,While the cashier bagged the groceries the customer that was flustered and rushing dropped the coupons.,filler1,Did the cashier drop the bag? ,N
+F3I5,As the repairman patched the roof that was leaky and slippery he fell on the tiles.,filler1,Did the repairman fix the floor? ,N
+F3I6,While the lawyer argued the case the jury that was arrogant and disrespectful slept in the courtroom.,filler1,Did the jury pay close attention? ,N
+F3I7,As the grandma recited the story the son read in bed.,filler1,Did the grandma sleep in bed? ,N
+F3I8,While Janis watched the fish she cleaned the tank.,filler1,Did Janis watch the cat? ,N
+F3I9,As Michael stirred the filling the crust that was golden and delicious baked in the oven.,filler1,Did the filling bake in the oven? ,N
+F3I10,While Alexander tasted the wine the butler answered the door.,filler1,Did the butler taste the wine? ,N
+F3I11,As the researcher compiled the data he created graphs.,filler1,Did a lab assistant create the graphs? ,N
+F3I12,While the father prepared the burgers he covered them with pepper.,filler1,Did the father cover the burgers with mustard? ,N
+F3I13,As Christy recited the monologue the sister that was bored and sleepy left the room.,filler1,Did Christ recite the monologue? ,Y
+F3I14,While Jennifer held the cigar that was aged and expensive she told bad jokes.,filler1,Did Jennifer tell bad jokes? ,Y
+F3I15,As the realtor sold the house that was large and brick she celebrated with her colleagues.,filler1,Did the realtor sell the house? ,Y
+F3I16,While the mother woke the son that was lazy and irresponsible she realized he was late for work.,filler1,Did the mother wake the son? ,Y
+F3I17,As the grandpa picked the raspberries that were large and ripe he saved them for the granddaughter.,filler1,Did the grandpa pick the raspberries? ,Y
+F3I18,While the man reversed the car he listened to the radio.,filler1,Did the man reverse the car? ,Y
+F3I19,As the cat chased the mouse that was small and grey it slid on the linoleum.,filler1,Did the cat chase the mouse? ,Y
+F3I20,While Richard dried the fruit that was ripe and delicious he bagged it for trail mix.,filler1,Did Richard dry the fruit? ,Y
+F3I21,As the waiter lit the candle that was tall and thin he took the couple's order.,filler1,Did the waiter light the candle? ,Y
+F3I22,While the kids teased the friend they watched the movie.,filler1,Did the kids watch the movie? ,Y
+F3I23,As the golfer swung the club the caddy pulled the cart.,filler1,Did the caddy pull the cart? ,Y
+F3I24,As the artist demonstrated the technique the painting that was exquisite and delicate fell off the easel.,filler1,Did the paiting fall off the easel? ,Y
+F3I25,While the woman jumped rope she sprained her ankle.,filler1,Did the woman jump rope? ,Y
+F3I26,While the archer aimed the bow the bird hid in the tree.,filler1,Did the archer aim the bow? ,Y
+F3I27,While the goalie smoothed the ice that was rough and melting he fell on the center line.,filler1,Did the goalie maitain his balance? ,N
+F3I28,As NASA launched the shuttle they taunted the Russians.,filler1,Did NASA reconcile with the Russians? ,N
+F3I29,As the chef sampled the sauce she boiled the noodles.,filler1,Did the chef make pastries? ,N
+F3I30,As the skier removed the skies he collapsed in the snow.,filler1,Did the skier keep his skies on? ,N
+F3I31,As the maid tidied the house she made the bed.,filler1,Did the maid vacuum the floor? ,N
+F3I32,As the contestant spun the wheel that was large and colorful she clapped her hands.,filler1,Did the contestant stay quiet? ,N
+F3I33,While the secretary made the photocopy that was brief and important she broke the Xerox machine.,filler1,Did the secretar send a fax? ,N
+F3I34,As the campers built the fire they gathered more wood.,filler1,Did the campers douse the fire? ,N
+F3I35,As the biologist observed the specimen the patient that was feverish and dying screamed in pain.,filler1,Did the patiet feel better? ,N
+F3I36,While the actor memorized the lines he walked his dog.,filler1,Did the actor walk aloe? ,N
+F3I37,While the ghost rattled the chains that were metal and heavy it woke the tired child.,filler1,Did the child rattle chains? ,N
+F3I38,As the salesman laced the shoe that was small and narrow he slid it on the customer's foot.,filler1,Did the customer wear a large and wide shoe? ,N
+F3I39,While the doctor injected the medicine that was green and bubbly he held the patient.,filler1,Did the doctor give the patient a pill? ,N
+F3I40,While the student used the clarinet the brother covered his ears.,filler1,Did the brother listen attetively? ,N
+F3I41,While the choir sang the hymn the child squirmed in the pew.,filler1,Did the child sing a hymn? ,N
+F3I42,While the minister married the couple he wore the robe.,filler1,Did the minister perform funeral services? ,N
+F4I1,The poodle sniffed the food as he scratched his ear.,filler1,Did the poodle sniff the food?,Y
+F4I2,Mabel fixed the socks while she watched the TV.,filler2,Did Mabel watch the fire? ,N
+F4I3,Joseph freed the bird that was red and yellow as the zookeeper watched in horror.,filler2,Did Joseph free the lion? ,N
+F4I4,The mother served the broccoli while the kids banged the table.,filler2,Did the kids bang the gong? ,N
+F4I5,The tornado destroyed the city hall that was modern and spectacular as it visited the city.,filler2,Did the tornado destroy the auditorium? ,N
+F4I6,The butterfly fluttered her wings while she laid the eggs.,filler2,Did the butterfly flutter her wings? ,Y
+F4I7,Fido gnawed the milk bone that was small and tasty as Dave fed the cat.,filler2,Did Dave feed the cat? ,Y
+F4I8,The camper stirred the beans that were brown and scrumptious while the fire warmed the pot.,filler2,Did the fire warm the house? ,N
+F4I9,The mistress applied lipstick as she rode the bike.,filler2,Did the mistress ride the bike? ,Y
+F4I10,The gymnast hurt her ankle that was twisted and swollen while she completed the vault.,filler2,Did the gymnast complete the vault? ,Y
+F4I11,The professor scolded the student that was conscientious and reliable as they bumped in the hallway.,filler2,Did the professor scold the senator? ,N
+F4I12,The grandma braided the pigtails that were thick and blonde while she groomed the girl.,filler2,Did the grandma braid the pigtails? ,Y
+F4I13,Andrew observed the house that was dark and haunted as the mother baked the cookies.,filler2,Did the mother bake the cookies? ,Y
+F4I14,The exterminator entered the school while the cockroaches scurried.,filler2,Did the exterminator enter the restaurant? ,N
+F4I15,Gary lost the data that was rare and critical as he reformatted his hard drive.,filler2,Did Gary reformat his hard drive? ,Y
+F4I16,Yasmeen memorized the formula that was long and complicated while the instructor erased the board.,filler2,Did the instructor erase the hard drive? ,N
+F4I17,The cowboy branded the cow as he warmed the instrument over the fire.,filler2,Did the cowboy brand the goat? ,N
+F4I18,The mother comforted the toddler that was chubby and scared while the clown handed him a balloon.,filler2,Did the mother comfort the toddler? ,Y
+F4I19,The fireman rescued the kitten as the house burned to the ground.,filler2,Did the fireman rescue the kitten? ,Y
+F4I20,The referee blew the whistle while he noticed the foul.,filler2,Did the referee notice the foul? ,Y
+F4I21,The hostess folded the bedspread that was pink and musty as the guest entered the bedroom.,filler2,Did the hostess fold the bedspread? ,Y
+F4I22,The kids mixed the ingredients while Tim kneaded the dough.,filler2,Did Tim knead the dough? ,Y
+F4I23,The patient threatened suicide as the psychiatrist administered drugs.,filler2,Did the psychiatrist administer drugs? ,Y
+F4I24,The guitarist plucked the guitar that was old and flat while the lovers entered the room.,filler2,Did the guitarist pluck the guitar? ,Y
+F4I25,The toddler wore the pajamas as he went to bed.,filler2,Did the toddler go to bed? ,Y
+F4I26,Mickey watched the parade while the drummer dropped his instrument.,filler2,Did the drummer drop his pants? ,N
+F4I27,The woman cashed the check that was valuable and important as she stopped at the bank.,filler2,Did the woman cash the check? ,Y
+F4I28,The archaeologist dug the pit that was deep and muddy as the supervisor broke the artifact.,filler2,Did the supervisor break the computer? ,N
+F4I29,The wife washed the dishes as the husband did the laundry.,filler2,Did the wife wash the windows? ,N
+F4I30,The class left the building that was large and brick as it formed a line.,filler2,Did the class leave a restaurant? ,N
+F4I31,The bat bit James as he screamed.,filler2,Did the bat bite Kelly? ,N
+F4I32,The truck driver wiped his brow while he removed his shirt.,filler2,Did the truck driver remove his watch? ,N
+F4I33,The pitcher threw the pitch that was low and inside while the batter held the bat.,filler2,Did the batter hold the pipe? ,N
+F4I34,Desmond held the football that was heavy and brown while Kevin took a fall.,filler2,Did Desmond hold the kitten? ,N
+F4I35,Diana requested the painkiller as she began childbirth.,filler2,Did Diana request a hamburger? ,N
+F4I36,Kate bought the vase that was gorgeous and delicate while the shopkeeper earned commission.,filler2,Did Kate buy the picture frame? ,N
+F4I37,The judge addressed the jury that was rude and inattentive as the witness gave the testimony.,filler2,Did the judge address the class? ,N
+F4I38,The blonde wore the bikini while she washed the car.,filler2,Did the blonde wash her hair? ,N
+F4I39,The soldier went to war while the wife worried at home.,filler2,Did the wife worry at home? ,Y
+F4I40,The postman delivered the package that was large and heavy while the neighbor watered the plants.,filler2,Did the neighbor deliver the package? ,N
+F4I41,The construction worker eyed Karen as he poured the cement.,filler2,Did the construction worker weld a bolt? ,N
+F4I42,The carpenter sanded the wood that was light and knotty as Marcia built the bench.,filler2,Did Marcia build the wagon? ,N
+F4I43,The golden retriever buried the bone as he refilled the hole.,filler2,Did the golden retriever bury the toy? ,N
+F4I44,The zookeeper held the snake that was strong and brown as the children touched it.,filler2,Did the children touch a bird? ,N
+F4I45,The consumer contracted salmonella as she ate the hamburger.,filler2,Did the consumer eat the lemon? ,N
+F4I46,The designer earned money while the miniskirt became popular.,filler2,Did the designer lose money? ,N
+F4I47,The bowler whispered a prayer while he threw the ball.,filler2,Did the bowler use a racket? ,N
+F4I48,The boys forgot the books that were heavy and thick as they left for school.,filler2,Did the boys bring their books? ,N
